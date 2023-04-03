@@ -1,5 +1,5 @@
 ---
-title: "Collection:BEAR by Staffen Gnosspelius"
+title: "Collection: BEAR by Staffen Gnosspelius"
 date: 2023-04-04T01:32:12+08:00
 tags:
 - collection
