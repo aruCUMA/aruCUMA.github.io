@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "13574b1da41feb2e",
+        "id": "aa4f1ddfcd2f08b5",
         "type": "tabs",
         "children": [
           {
-            "id": "d67187000294013e",
+            "id": "c10f405f2103fc7c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "388876c775c079eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a6467b673617640f",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,11 +138,26 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d67187000294013e",
+  "active": "0e926cb7fa420506",
   "lastOpenFiles": [
-    "how_to_use_beancount.md",
-    "how_to_have_a_blog_with_hugo_and_github_pages.md",
+    "未命名",
+    "how_to_have_a_blog_with_hugo_and_github_pages/workflow_run_condition.png",
+    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+    "how_to_have_a_blog_with_hugo_and_github_pages/choose_hugo_workflow.png",
+    "how_to_have_a_blog_with_hugo_and_github_pages/edit_hugo_version.png",
+    "how_to_have_a_blog_with_hugo_and_github_pages/create_repository.png",
+    "how_to_have_a_blog_with_hugo_and_github_pages/change_page_source.png",
+    "how_to_have_a_blog_with_hugo_and_github_pages",
+    "img/how_to_have_a_blog_with_hugo_and_github_pages.md",
+    "img/workflow_run_condition.png",
+    "img/edit_hugo_version.png",
+    "img/create_repository.png",
+    "img/choose_hugo_workflow.png",
+    "img/change_page_source.png",
+    "img",
     "building_resillence.md",
+    "how_to_have_a_blog_with_hugo_and_github_pages.md",
+    "how_to_use_beancount.md",
     "rational_space.png.md"
   ]
 }
