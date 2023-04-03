@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+                "file": "collection_bear/collection_bear.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a6467b673617640f",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+                "file": "collection_bear/collection_bear.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+                "file": "collection_bear/collection_bear.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md"
+                "file": "collection_bear/collection_bear.md"
               }
             }
           }
@@ -148,21 +148,28 @@
   },
   "active": "c10f405f2103fc7c",
   "lastOpenFiles": [
-    "how_to_have_a_blog_with_hugo_and_github_pages/choose_hugo_workflow.png",
     "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+    "collection_bear/collection_bear.md",
+    "collection_bear/bear_with_cone.png",
+    "collection_bear/bear_without_cone.png",
+    "(/post/collection_bear/bear_with_scone.png.md",
+    "(/post/collection_bear",
+    "(/post",
+    "(",
+    "collection_bear/bear_without_scone.png",
+    "collection_bear/bear_without_scone.webp",
+    "collection_bear/bear_with_rabbit.png",
+    "collection_bear/bear_in_leeves.png",
+    "collection_bear/bear_with_scone.png",
+    "collection_bear.md",
+    "collection_bear/bear_with_scone.webp",
+    "collection_bear",
+    "how_to_have_a_blog_with_hugo_and_github_pages/choose_hugo_workflow.png",
     "how_to_have_a_blog_with_hugo_and_github_pages/change_page_source.png",
     "change_source_page.png.md",
     "未命名",
-    "how_to_have_a_blog_with_hugo_and_github_pages/workflow_run_condition.png",
-    "how_to_have_a_blog_with_hugo_and_github_pages/edit_hugo_version.png",
-    "how_to_have_a_blog_with_hugo_and_github_pages/create_repository.png",
     "how_to_have_a_blog_with_hugo_and_github_pages",
     "img/how_to_have_a_blog_with_hugo_and_github_pages.md",
-    "img/workflow_run_condition.png",
-    "img/edit_hugo_version.png",
-    "img/create_repository.png",
-    "img/choose_hugo_workflow.png",
-    "img/change_page_source.png",
     "img",
     "building_resillence.md",
     "how_to_have_a_blog_with_hugo_and_github_pages.md",

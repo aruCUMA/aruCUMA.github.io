@@ -2,21 +2,23 @@
 title: "Collection: BEAR by Staffen Gnosspelius"
 date: 2023-04-04T01:32:12+08:00
 tags:
-- collection
 - creator
+categories:
+- collection
 draft: false
 ---
 *Bear* 是瑞典作家 Staffen Gnosspelius 创作的绘本，讲述了一个头上戴着圆锥体的熊的故事，在故事中，一只兔子也总是陪在 ta 的身边。
-![bear_with_cone]((/post/collection_bear/bear_with_cone.png)
+
+![bear_with_cone](/post/collection_bear/bear_with_cone.png)
 
 熊想取下这个圆锥体，但是它做不到，每次尝试为 ta 带来的不过是又一次失败的体验。即使兔子朋友帮助 ta 也取不下来，并且在那之前，熊真实的声音在经过圆锥体的扭曲后已经吓跑了很多朋友。
 
 在这个圆锥体之下，熊的视野变得狭窄，ta 没法看到生活的丛林的真实情况，草丛和树枝变成了利剑和章鱼的触手，这让熊感到痛苦，但兔子朋友却总是陪伴在 ta 身边。
-![bear_in_leeves]((/post/collection_bear/bear_in_leeves.png)
-![bear_with_rabbit]((/post/collection_bear/bear_with_rabbit.png)
+![bear_in_leeves](/post/collection_bear/bear_in_leeves.png)
+![bear_with_rabbit](/post/collection_bear/bear_with_rabbit.png)
 
 熊在兔子朋友的带领下开始慢慢唱歌，一开始熊并不想唱，但渐渐地 ta 开始尝试唱回去。
-![bear_without_cone]((/post/collection_bear/bear_without_cone.png)
+![bear_without_cone](/post/collection_bear/bear_without_cone.png)
 
 > So it is that the song of life begins singing itself through the bear and the cone comes gently off — a tender reminder that no one can save anyone, not even with love; that we only ever save ourselves when we are ready: but love is what readies us to be our own savior.
 
