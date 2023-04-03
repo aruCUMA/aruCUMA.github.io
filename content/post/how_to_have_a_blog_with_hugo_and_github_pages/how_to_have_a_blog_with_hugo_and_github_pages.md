@@ -76,7 +76,7 @@ echo "theme = 'stack'" >> config.toml //配置 config.toml
 #### 新建和设置 repository
 - 新建一个 repository，注意需要选上 README.md，名称可以以```username.github.io```的格式命名
 - 在 setting - pages 中设置 source 为 GIthub Actions
-![create_repository](create_repository.png)
+![create_repository](/content/post/how_to_have_a_blog_with_hugo_and_github_pages/img/create_repository.png)
 #### 托管至 Github Pages
 在完成第一项后，你就得到了一个格式为 ```https://username.github.io``` 的 URL，首先需要在``` quickstart - config.toml ```把 ```baseURL``` 的位置改为这个 URL。后续的语句为：
 ``` markdown 
@@ -93,18 +93,23 @@ git push -u origin master
 运行成功后，就会发现在 repository 出现了一个新的分支 master，本地 quickstart 文件夹里的所有文件都会出现在里面，此时托管这一步就成功了。
 ### 通过 Github Action 发布
 在使用 Github Action 之前，我用了几次在本地生成 public 文件夹，然后 push 这个文件夹到 github repository 的方法，和用 GIthub Action 发布的方法相比，由于每次需要多几行代码，所以还是后者更方便一点，并且配置也十分得简单。
+
 首先，在博客所在的 repository 页面，点击 Pages，将 Source 修改为 Github Actions。
-![change_page_source](change_page_source.png)
+![change_page_source](/content/post/how_to_have_a_blog_with_hugo_and_github_pages/img/change_page_source.png)
+
 其次，在博客所在的 repository 页面，点击到 ```Actions - New workflow```，搜索 Hugo，点击 Configure 开始设置。
-![change_page_source](choose_hugo_workflow.png)
+![change_page_source](/content/post/how_to_have_a_blog_with_hugo_and_github_pages/img/choose_hugo_workflow.png)
+
 点开后，Hugo 的配置文件 hugo.yml 就已经出现了，只需修改其中的 Hugo version 即可。version 可在 terminal 中查看：
 ``` markdown
 hugo version
 ```
-![edit_hugo_version](edit_hugo_version.png)
+![edit_hugo_version](/content/post/how_to_have_a_blog_with_hugo_and_github_pages/img/edit_hugo_version.png)
+
 修改后，点击 start commit 即可。
+
 开始运行后，可以在 Actions 界面看到运行情况，成功后，后续在本地将更新的内容 push 到 github 后就会开始自动更新了。
-![workflow_run_condition](workflow_run_condition.png)
+![workflow_run_condition](/content/post/how_to_have_a_blog_with_hugo_and_github_pages/img/workflow_run_condition.png)
 ## 开始写博客
 ```
 hugo new post/xxx.md //新建博客文章
