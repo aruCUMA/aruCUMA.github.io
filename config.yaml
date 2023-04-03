@@ -1,14 +1,14 @@
-baseurl:  https://aruCUMA.github.io/
+baseurl: https://aruCUMA.github.io/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: 'aruCUMA'
+title: aruCUMA
 
 languages:
     en:
         languageName: English
         title: aruCUMA
-        description: 
+        description: #Example description
         weight: 1
 
 # Change it to your Disqus shortname before using
@@ -46,7 +46,7 @@ params:
 
     sidebar:
         emoji: ❄️
-        subtitle: 
+        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
             local: true
@@ -188,13 +188,13 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: #https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/CaiJimmy/hugo-theme-stack
           params:
               icon: brand-github
 
         - identifier: twitter
           name: Twitter
-          url: #https://twitter.com
+          url: https://twitter.com
           params:
               icon: brand-twitter
 
