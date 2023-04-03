@@ -4,7 +4,7 @@ date: 2023-04-04T01:32:12+08:00
 tags:
 - collection
 - creator
-draft: true
+draft: false
 ---
 *Bear* 是瑞典作家 Staffen Gnosspelius 创作的绘本，讲述了一个头上戴着圆锥体的熊的故事，在故事中，一只兔子也总是陪在 ta 的身边。
 ![bear_with_cone]((/post/collection_bear/bear_with_cone.png)
