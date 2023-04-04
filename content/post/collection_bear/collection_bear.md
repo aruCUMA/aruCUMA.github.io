@@ -1,5 +1,5 @@
 ---
-title: "Collection: BEAR by Staffen Gnosspelius"
+title: "BEAR by Staffen Gnosspelius"
 date: 2023-04-04T01:32:12+08:00
 tags:
 - creator
@@ -30,7 +30,7 @@ draft: false
 
 事实上，在整理这个故事之前，我一直以为这是一个讲戴着圆锥体也能*正常*生活的故事。既然没有*真实的情况*，那么我们以一种让自己觉得快乐的观念生活也就并不是在**欺骗**自己。或者，即使我们认识到某些东西就是一个不太好的宏观的、很难撼动的东西，我们是不是有余地在自己的微观的生活里，做点事情让我们觉得生活得好一点，而这并不是一种假装忘记或者无视不好的事情（并不确定）？
 
-不过，熊摘下圆锥体也不是一下子就做到的事情，在这之前，戴着它生活一段时间也没有关系。也许到了哪个==不得不跃入新生活==的时刻，圆锥体就摘下来了。
+不过，熊摘下圆锥体也不是一下子就做到的事情，在这之前，戴着它生活一段时间也没有关系。也许到了哪个**不得不跃入新生活**的时刻，圆锥体就摘下来了。
 
 ## 参考链接
 [# Bear: A Soulful Illustrated Meditation on Life with and Liberation from Depression](https://www.themarginalian.org/2023/02/22/staffan-gnosspelius-bear/?mc_cid=ca7902b618&mc_eid=50c6c8c705)
