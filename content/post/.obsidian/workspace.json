@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa4f1ddfcd2f08b5",
+        "id": "1580d3917f73e55e",
         "type": "tabs",
         "children": [
           {
-            "id": "c10f405f2103fc7c",
+            "id": "8230ab8772a6a323",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collection_bear/collection_bear.md",
+                "file": "找工预备役_找工网站.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "collection_bear/collection_bear.md",
+                "file": "找工预备役_找工网站.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "collection_bear/collection_bear.md",
+                "file": "找工预备役_找工网站.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collection_bear/collection_bear.md"
+                "file": "找工预备役_找工网站.md"
               }
             }
           }
@@ -146,10 +146,15 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c10f405f2103fc7c",
+  "active": "8230ab8772a6a323",
   "lastOpenFiles": [
-    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
     "collection_bear/collection_bear.md",
+    "how_to_use_beancount.md",
+    "找工预备役_找工网站.md",
+    "未命名.md",
+    "未命名",
+    "building_resillence.md",
+    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
     "collection_bear/bear_with_cone.png",
     "collection_bear/bear_without_cone.png",
     "(/post/collection_bear/bear_with_scone.png.md",
@@ -167,13 +172,10 @@
     "how_to_have_a_blog_with_hugo_and_github_pages/choose_hugo_workflow.png",
     "how_to_have_a_blog_with_hugo_and_github_pages/change_page_source.png",
     "change_source_page.png.md",
-    "未命名",
     "how_to_have_a_blog_with_hugo_and_github_pages",
     "img/how_to_have_a_blog_with_hugo_and_github_pages.md",
     "img",
-    "building_resillence.md",
     "how_to_have_a_blog_with_hugo_and_github_pages.md",
-    "how_to_use_beancount.md",
     "rational_space.png.md"
   ]
 }
