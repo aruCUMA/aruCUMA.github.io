@@ -1,5 +1,5 @@
 ---
-title: "The_Tragic_Necessity_of_Human_Life"
+title: "The Tragic Necessity of Human Life"
 date: 2023-04-05T20:35:04+08:00
 tags:
 categories:
