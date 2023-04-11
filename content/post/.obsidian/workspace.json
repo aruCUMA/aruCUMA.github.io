@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a6467b673617640f",
@@ -148,10 +149,12 @@
   },
   "active": "8230ab8772a6a323",
   "lastOpenFiles": [
-    "The_Tragic_Necessity_of_Human_Life.md",
-    "collection_bear/collection_bear.md",
+    "how_I_leave_my_job.md",
     "how_to_use_beancount.md",
     "building_resillence.md",
+    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+    "The_Tragic_Necessity_of_Human_Life.md",
+    "collection_bear/collection_bear.md",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential_Stuckness.md",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The Remedy for Creative Block and Existential Stuckness.md",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential Stuckness.md",
@@ -162,7 +165,6 @@
     "未命名文件夹",
     "Velocity_Hilts.jpg",
     "the.md",
-    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
     "找工预备役_找工网站.md",
     "未命名.md",
     "未命名",
