@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+                "file": "how_I_leave_my_job.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a6467b673617640f",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+                "file": "how_I_leave_my_job.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+                "file": "how_I_leave_my_job.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md"
+                "file": "how_I_leave_my_job.md"
               }
             }
           }
@@ -149,13 +148,16 @@
   },
   "active": "8230ab8772a6a323",
   "lastOpenFiles": [
-    "how_I_leave_my_job.md",
-    "how_to_use_beancount.md",
-    "building_resillence.md",
-    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
-    "The_Tragic_Necessity_of_Human_Life.md",
     "collection_bear/collection_bear.md",
+    "找工预备役_找工网站.md",
+    "building_resillence.md",
+    "The_Remedy_for_Creative_Block_and_Existential_Stuckness/Velocity_Hilts.jpg",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential_Stuckness.md",
+    "how_to_be_a_parent_in_era_with_less_choices.md",
+    "how_I_leave_my_job.md",
+    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+    "how_to_use_beancount.md",
+    "The_Tragic_Necessity_of_Human_Life.md",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The Remedy for Creative Block and Existential Stuckness.md",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential Stuckness.md",
     "The Remedy for Creative Block and Existential Stuckness/The Remedy for Creative Block and Existential Stuckness.md",
@@ -165,7 +167,6 @@
     "未命名文件夹",
     "Velocity_Hilts.jpg",
     "the.md",
-    "找工预备役_找工网站.md",
     "未命名.md",
     "未命名",
     "collection_bear/bear_with_cone.png",
@@ -180,7 +181,6 @@
     "collection_bear/bear_in_leeves.png",
     "collection_bear/bear_with_scone.png",
     "collection_bear.md",
-    "collection_bear/bear_with_scone.webp",
     "collection_bear",
     "change_source_page.png.md",
     "how_to_have_a_blog_with_hugo_and_github_pages",
