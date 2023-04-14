@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1580d3917f73e55e",
+        "id": "2badbc35b300040a",
         "type": "tabs",
         "children": [
           {
-            "id": "8230ab8772a6a323",
+            "id": "92599c3c8aa87821",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how_I_leave_my_job.md",
+                "file": "sensory_room/sensory_room.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how_I_leave_my_job.md",
+                "file": "sensory_room/sensory_room.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how_I_leave_my_job.md",
+                "file": "sensory_room/sensory_room.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how_I_leave_my_job.md"
+                "file": "sensory_room/sensory_room.md"
               }
             }
           }
@@ -146,40 +146,44 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "8230ab8772a6a323",
+  "active": "92599c3c8aa87821",
   "lastOpenFiles": [
+    "sensory_room/sensory_board.png",
+    "sensory_room/4D671497-23D3-4498-8992-698536890CA9.png",
+    "4D671497-23D3-4498-8992-698536890CA9.png",
+    "sensory_room/sensory_corner.png",
+    "sensory_room/截屏2023-04-14 22.32.37.png",
+    "sensory_room/sensory_room_alternatives.png",
+    "sensory_room/截屏2023-04-14 22.26.29.png",
+    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+    "sensory_room/sensory_room.md",
+    "sensory_room/best_practice.png",
+    "The_Tragic_Necessity_of_Human_Life.md",
+    "how_to_have_a_blog_with_hugo_and_github_pages/change_page_source.png",
+    "sensory_room/截屏2023-04-14 22.18.42.png",
+    "sensory_room.md",
+    "sensory_room",
+    "未命名文件夹",
+    "截屏2023-04-14 22.18.42.png",
+    "building_resillence.md",
+    "how_I_leave_my_job.md",
+    "how_to_be_a_parent_in_era_with_less_choices.md",
+    "how_to_use_beancount.md",
     "collection_bear/collection_bear.md",
     "找工预备役_找工网站.md",
-    "building_resillence.md",
-    "The_Remedy_for_Creative_Block_and_Existential_Stuckness/Velocity_Hilts.jpg",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential_Stuckness.md",
-    "how_to_be_a_parent_in_era_with_less_choices.md",
-    "how_I_leave_my_job.md",
-    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
-    "how_to_use_beancount.md",
-    "The_Tragic_Necessity_of_Human_Life.md",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The Remedy for Creative Block and Existential Stuckness.md",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential Stuckness.md",
     "The Remedy for Creative Block and Existential Stuckness/The Remedy for Creative Block and Existential Stuckness.md",
-    "The Remedy for Creative Block and Existential Stuckness/Velocity_Hilts.jpg",
     "The Remedy for Creative Block and Existential Stuckness.md",
     "The Remedy for Creative Block and Existential Stuckness",
-    "未命名文件夹",
-    "Velocity_Hilts.jpg",
     "the.md",
     "未命名.md",
     "未命名",
-    "collection_bear/bear_with_cone.png",
-    "collection_bear/bear_without_cone.png",
     "(/post/collection_bear/bear_with_scone.png.md",
     "(/post/collection_bear",
     "(/post",
     "(",
-    "collection_bear/bear_without_scone.png",
-    "collection_bear/bear_without_scone.webp",
-    "collection_bear/bear_with_rabbit.png",
-    "collection_bear/bear_in_leeves.png",
-    "collection_bear/bear_with_scone.png",
     "collection_bear.md",
     "collection_bear",
     "change_source_page.png.md",
