@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2badbc35b300040a",
+        "id": "d3dc036c713292b3",
         "type": "tabs",
         "children": [
           {
-            "id": "92599c3c8aa87821",
+            "id": "5515ca3530802252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sensory_room/sensory_room.md",
+                "file": "sustainable_life/sustainable_life.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a6467b673617640f",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sensory_room/sensory_room.md",
+                "file": "sustainable_life/sustainable_life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sensory_room/sensory_room.md",
+                "file": "sustainable_life/sustainable_life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sensory_room/sensory_room.md"
+                "file": "sustainable_life/sustainable_life.md"
               }
             }
           }
@@ -146,32 +147,37 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "92599c3c8aa87821",
+  "active": "5515ca3530802252",
   "lastOpenFiles": [
+    "post/sustainable_life.md",
+    "sustainable_life/sustainable_life.md",
+    "post",
+    "The_Remedy_for_Creative_Block_and_Existential_Stuckness/Velocity_Hilts.jpg",
+    "sustainable_life/ Healthy_Eating_Plate.jpeg",
+    "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential_Stuckness.md",
+    "how_I_leave_my_job.md",
+    "The_Tragic_Necessity_of_Human_Life.md",
+    "how_to_use_beancount.md",
+    "找工预备役_找工网站.md",
+    "building_resillence.md",
+    "how_to_be_a_parent_in_era_with_less_choices.md",
+    "sustainable_life/excercise_aged.png",
+    "sustainable_life/excercise_adult.png",
+    "sustainable_life/Screen Shot 2022-07-10 at 5.15.04 PM.png",
+    "sustainable_life/Screen Shot 2022-07-10 at 5.14.36 PM.png",
+    "sustainable_life",
+    "sustainable_life.md",
+    "未命名文件夹/sustainable_life.md",
+    "未命名文件夹/ Healthy_Eating_Plate.jpeg",
+    "未命名文件夹",
+    "sensory_room/sensory_room.md",
     "sensory_room/sensory_board.png",
     "sensory_room/4D671497-23D3-4498-8992-698536890CA9.png",
     "4D671497-23D3-4498-8992-698536890CA9.png",
-    "sensory_room/sensory_corner.png",
-    "sensory_room/截屏2023-04-14 22.32.37.png",
-    "sensory_room/sensory_room_alternatives.png",
-    "sensory_room/截屏2023-04-14 22.26.29.png",
     "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
-    "sensory_room/sensory_room.md",
-    "sensory_room/best_practice.png",
-    "The_Tragic_Necessity_of_Human_Life.md",
-    "how_to_have_a_blog_with_hugo_and_github_pages/change_page_source.png",
-    "sensory_room/截屏2023-04-14 22.18.42.png",
     "sensory_room.md",
     "sensory_room",
-    "未命名文件夹",
-    "截屏2023-04-14 22.18.42.png",
-    "building_resillence.md",
-    "how_I_leave_my_job.md",
-    "how_to_be_a_parent_in_era_with_less_choices.md",
-    "how_to_use_beancount.md",
     "collection_bear/collection_bear.md",
-    "找工预备役_找工网站.md",
-    "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential_Stuckness.md",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The Remedy for Creative Block and Existential Stuckness.md",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential Stuckness.md",
     "The Remedy for Creative Block and Existential Stuckness/The Remedy for Creative Block and Existential Stuckness.md",
@@ -187,10 +193,7 @@
     "collection_bear.md",
     "collection_bear",
     "change_source_page.png.md",
-    "how_to_have_a_blog_with_hugo_and_github_pages",
     "img/how_to_have_a_blog_with_hugo_and_github_pages.md",
-    "img",
-    "how_to_have_a_blog_with_hugo_and_github_pages.md",
-    "rational_space.png.md"
+    "how_to_have_a_blog_with_hugo_and_github_pages.md"
   ]
 }
