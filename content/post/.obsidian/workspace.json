@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sustainable_life/sustainable_life.md",
+                "file": "GMAT_VERBAL_NOTES.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sustainable_life/sustainable_life.md",
+                "file": "GMAT_VERBAL_NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sustainable_life/sustainable_life.md",
+                "file": "GMAT_VERBAL_NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,16 +126,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sustainable_life/sustainable_life.md"
+                "file": "GMAT_VERBAL_NOTES.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,8 +149,8 @@
   },
   "active": "5515ca3530802252",
   "lastOpenFiles": [
-    "post/sustainable_life.md",
     "sustainable_life/sustainable_life.md",
+    "post/sustainable_life.md",
     "post",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/Velocity_Hilts.jpg",
     "sustainable_life/ Healthy_Eating_Plate.jpeg",
