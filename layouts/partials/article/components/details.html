@@ -49,7 +49,7 @@
 
         {{ if .Site.Params.article.readingTime }}
         <div>
-            {{ partial "assets/icons" "grid.svg" }}
+            {{ partial "helper/icon" "grid" }}
             <time class="article-words">
                 {{ .WordCount }}words
             </time>
