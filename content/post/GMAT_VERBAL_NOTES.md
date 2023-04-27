@@ -3,6 +3,8 @@ title: "GMAT 备考：VERBAL 笔记"
 date: 2023-04-27T20:56:05+08:00
 tags:
 draft: false
+categories:
+- 一些学习
 ---
 ## 考试介绍
 
@@ -420,11 +422,11 @@ doing/done/to do 不能单独用作谓语动词
 	- 同位语从句和定语从句的区别：<font color=LightSeaGreen>that 是否在从句中充当成分</font>
 	- 三类引导词
 		
-	  | 引导词                                       |
-	  | :------------------------------------------- |
-	  | that                                         |
-	  | whether                                      |
-	  | 特殊引导词: what, when, where, who, why, how |
+   | 引导词                                       |
+   | :------------------------------------------- |
+   | that                                         |
+   | whether                                      |
+   | 特殊引导词: what, when, where, who, why, how |
 
 2. 定语从句：修饰名词，相当于形容词
 	- 定语从句的引导语在从句中必须充当成分
