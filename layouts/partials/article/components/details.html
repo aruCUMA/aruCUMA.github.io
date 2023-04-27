@@ -47,10 +47,11 @@
         </div>
         {{ end }}
 
-        {{ if .Site.Params.article.readingTime }} //偷懒直接用阅读时间改的
+        {{ if .Site.Params.article.readingTime }}
         <div>
+            {{ partial "helper/icon" "book" }}
             <time class="article-words">
-                共{{ .WordCount }}字
+                {{ .WordCount }} words
             </time>
         </div>
         {{ end }}
