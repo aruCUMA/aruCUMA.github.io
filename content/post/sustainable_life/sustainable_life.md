@@ -17,7 +17,8 @@ draft: false
 - 睡眠 sleep 5.5–7.4 h/day
 
 ## 饮食
-![Healthy_Eating_Plate](/post/sustainable_life/Healthy_Eating_Plate.jpeg)
+![Healthy_Eating_Plate](/post/sustainable_life/ Healthy_Eating_Plate.jpeg)
+
 
 ## 运动
 ![exercise_for_adult](/post/sustainable_life/excercise_adult.png)

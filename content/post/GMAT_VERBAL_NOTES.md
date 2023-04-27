@@ -6,20 +6,20 @@ draft: false
 ---
 ## 考试介绍
 
-|考试科目|题目数量|题目类型|考试时间|做题时间|
-|:----|:----|:----|:----|:----|
-|Analytical Writing<br/>分析性写作|1篇|论证分析写作|30min|/|
-|Integrated Reasoning<br/>综合推理|12题|图表解读<br/>二段式分析<br/>表格分析<br/>多源推理|30min|2min30s/题|
-|Quantitative<br/>定量推理|31题|数据充分性分析/DS<br/>问题求解/PS|62min|2min/题|
-|Verbal<br/>文本逻辑推理|36题|阅读理解Reading Comprehension<br/>批判性推理Critical Reasoning<br/>句子改错Sentence Correction|65min|1min45s/题|
+| 考试科目                          | 题目数量 | 题目类型                                                                                       | 考试时间 | 做题时间   |
+| :-------------------------------- | :------- | :--------------------------------------------------------------------------------------------- | :------- | :--------- |
+| Analytical Writing<br/>分析性写作 | 1篇      | 论证分析写作                                                                                   | 30min    | /          |
+| Integrated Reasoning<br/>综合推理 | 12题     | 图表解读<br/>二段式分析<br/>表格分析<br/>多源推理                                              | 30min    | 2min30s/题 |
+| Quantitative<br/>定量推理         | 31题     | 数据充分性分析/DS<br/>问题求解/PS                                                              | 62min    | 2min/题    |
+| Verbal<br/>文本逻辑推理           | 36题     | 阅读理解Reading Comprehension<br/>批判性推理Critical Reasoning<br/>句子改错Sentence Correction | 65min    | 1min45s/题 |
 
-|考试科目|题目数量|做题计划|
-|:----|:----|:----|
-|Problem Solving|262|20道每天, 14天，每天40min|
-|Data sufficiency|240|20道每天，12天，每天40min|
-|Critical Reasoning|166|12道每天，15天，每天21min|
-|Reading Comprehension|159|11道每天，15天，每天20min|
-|Sentence Correction|178|12道每天，15天，每天21min|
+| 考试科目              | 题目数量 | 做题计划                  |
+| :-------------------- | :------- | :------------------------ |
+| Problem Solving       | 262      | 20道每天, 14天，每天40min |
+| Data sufficiency      | 240      | 20道每天，12天，每天40min |
+| Critical Reasoning    | 166      | 12道每天，15天，每天21min |
+| Reading Comprehension | 159      | 11道每天，15天，每天20min |
+| Sentence Correction   | 178      | 12道每天，15天，每天21min |
 
 ## Critical Reasoning
 ### 简介
@@ -83,11 +83,11 @@ draft: false
 		- 错误：反/无
 		- 正确
 			
-			|文章结构|说明|正确答案逻辑|
-			|----|----|----|
-			|conditional argument|condition —— expectation|结合前提 + 削弱结论|
-			|causal argument|phenomenon —— explanation|反例<br/>他因<br/>因果倒置|
-			|plan —— goal|plan —— goal|Goal 不可达<br/>Plan 有副作用<br/>Plan 不可行|
+   | 文章结构             | 说明                      | 正确答案逻辑                                  |
+   | -------------------- | ------------------------- | --------------------------------------------- |
+   | conditional argument | condition —— expectation  | 结合前提 + 削弱结论                           |
+   | causal argument      | phenomenon —— explanation | 反例<br/>他因<br/>因果倒置                    |
+   | plan —— goal         | plan —— goal              | Goal 不可达<br/>Plan 有副作用<br/>Plan 不可行 |
 #### 假设题
 文章结论成立的必要条件：<font color=LightSeaGreen>必要性 + 条件</font>
 1. Key words
@@ -123,11 +123,11 @@ draft: false
 		- 是, (-)/(+)
 		- 否, (+)/(-)
 	
-		|文章结构|说明|正确答案逻辑|
-		|:----|:----|:----|
-		|conditional argument|condition --> expectation<br/>因 -- >果|反问 weaken|
-		|causal argument|phenomenon --> explanation<br/>果 -- >因|1. 对照组实验是否一致：<br/>&emsp;1) 1个变量-实验组对照组；<br/>&emsp;2) 2个变量-控制其中一个变量(e.g. E1)<br/>&emsp;&emsp;a. 结果无影响(E1) <br/>&emsp;&emsp;b. 结果有影响(E2) <br/>2. 是否有他因<br/>3. 是否因果倒置|
-		|plan --> goal|plan --> goal|Goal 是否可达<br/>Plan 是否有副作用<br/>Plan 是否可行|
+  | 文章结构             | 说明                                     | 正确答案逻辑                                                                                                                                                                                                           |
+  | :------------------- | :--------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+  | conditional argument | condition --> expectation<br/>因 -- >果  | 反问 weaken                                                                                                                                                                                                            |
+  | causal argument      | phenomenon --> explanation<br/>果 -- >因 | 1. 对照组实验是否一致：<br/>&emsp;1) 1个变量-实验组对照组；<br/>&emsp;2) 2个变量-控制其中一个变量(e.g. E1)<br/>&emsp;&emsp;a. 结果无影响(E1) <br/>&emsp;&emsp;b. 结果有影响(E2) <br/>2. 是否有他因<br/>3. 是否因果倒置 |
+  | plan --> goal        | plan --> goal                            | Goal 是否可达<br/>Plan 是否有副作用<br/>Plan 是否可行                                                                                                                                                                  |
 #### 加强题
 1. Key words
 	<font color=LightSeaGreen>support</font>, strengthen, justify
@@ -137,10 +137,10 @@ draft: false
 	Which of the following, if true, would most strengthen the conclusion drawn in the second sentence?
 3. 做题步骤
 
-	|文章结构|正确答案逻辑|
-	|:----|:----|
-	|Argument|A. citing examples摆事实 <br/>&emsp;1) positive 正例，榜样<br/>&emsp;&emsp;a. 不同个体重现相同逻辑<br/>&emsp;&emsp;b.有因有果<br/>&emsp;2)negative 反面教材<br/>&emsp;&emsp;a. 无因无果<br/>&emsp;&emsp;b. 双重否定表强调 <br/>B. Providing additional information to explain讲道理|
-	|Plan——Goal|1)目标可行<br/>2)无副作用<br/>3)手段可行|
+ | 文章结构   | 正确答案逻辑                                                                                                                                                                                                                                                                        |
+ | :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+ | Argument   | A. citing examples摆事实 <br/>&emsp;1) positive 正例，榜样<br/>&emsp;&emsp;a. 不同个体重现相同逻辑<br/>&emsp;&emsp;b.有因有果<br/>&emsp;2)negative 反面教材<br/>&emsp;&emsp;a. 无因无果<br/>&emsp;&emsp;b. 双重否定表强调 <br/>B. Providing additional information to explain讲道理 |
+ | Plan——Goal | 1)目标可行<br/>2)无副作用<br/>3)手段可行                                                                                                                                                                                                                                            |
 	- <font color=Chocolate>provided 出现在句首 = if</font>
 	- <font color=Chocolate>Plan——Goal：方案对比(most, only)的选项通常不予考虑，文章结论存在对比，选项才能对比</font>
 #### 解释题
@@ -197,16 +197,16 @@ draft: false
 ### 简介
 4篇文章：2短2长或3短1长
 
-|文章类型|字数|题目数量|题库题量|
-|:----|:----|:----|:----|
-|短文章|220字左右|4题|8-12题|
-|长文章|350字左右|3题|6-8题|
+| 文章类型 | 字数      | 题目数量 | 题库题量 |
+| :------- | :-------- | :------- | :------- |
+| 短文章   | 220字左右 | 4题      | 8-12题   |
+| 长文章   | 350字左右 | 3题      | 6-8题    |
 ### 阅读时间分配
 
-|文章类型|总占用时间|读文章时间|做题时间|
-|:----|:----|:----|:----|
-|短文章|6-7分钟/篇|3.5-4分钟/篇|2-2.5分钟/篇|
-|长文章|8-9分钟/篇|5分钟|3-4分钟/篇|
+| 文章类型 | 总占用时间 | 读文章时间   | 做题时间     |
+| :------- | :--------- | :----------- | :----------- |
+| 短文章   | 6-7分钟/篇 | 3.5-4分钟/篇 | 2-2.5分钟/篇 |
+| 长文章   | 8-9分钟/篇 | 5分钟        | 3-4分钟/篇   |
 ### 阅读方法
 S1: 单句阅读：单句功能
 S2: 句间关系：顺转让比
@@ -393,15 +393,15 @@ doing/done/to do 不能单独用作谓语动词
 ##### 并列句
 1. 并列连词：Fanboys
 
-	|连词|作用|
-	|:----|:----|
-	|for|因为|
-	|and|联结各种形式的平行结构|
-	|nor|也不|
-	|but|联结各种形式的平行结构|
-	|or|联结各种形式的平行结构|
-	|yet|+句子|
-	|so|+句子|
+ | 连词 | 作用                   |
+ | :--- | :--------------------- |
+ | for  | 因为                   |
+ | and  | 联结各种形式的平行结构 |
+ | nor  | 也不                   |
+ | but  | 联结各种形式的平行结构 |
+ | or   | 联结各种形式的平行结构 |
+ | yet  | +句子                  |
+ | so   | +句子                  |
 2. 并列句正确形式
 	- SVO<font color=LightSeaGreen>;</font> SVO
 	- SVO<font color=LightSeaGreen>, conj.</font> SVO
@@ -413,11 +413,11 @@ doing/done/to do 不能单独用作谓语动词
 1. 名词性从句：充当 n. 使用
 	- 三类引导词
 	
-		|引导词|
-		|:----|
-		|that|
-		|whether|
-		|特殊引导词: what, when, where, who, why, how|
+  | 引导词                                       |
+  | :------------------------------------------- |
+  | that                                         |
+  | whether                                      |
+  | 特殊引导词: what, when, where, who, why, how |
 	- 主语从句：<font color=LightSeaGreen>That he got 800 in GMAT</font> shocked me.
 	- 宾语从句：He told me <font color=LightSeaGreen>that he got 800 in GMAT</font>.
 	- 表语从句：The shocking new is <font color=LightSeaGreen>that he got 800 in GMAT</font>.
@@ -666,13 +666,13 @@ doing(主动/伴随)/done(过去/被动)
 	- whose：修饰人或物
 - 非限定性定语从句 VS 限定性定语从句
 	
-	|非限定性定语从句|限定性定语从句|
-	|:----|:----|
-	|有 ","|无 ","|
-	|独一无二的|限定范围“这样的”|
-	|描述|分类|
-	|non-essential modifier|essential modifier|
-	|不必要信息|必要信息|
+ | 非限定性定语从句       | 限定性定语从句     |
+ | :--------------------- | :----------------- |
+ | 有 ","                 | 无 ","             |
+ | 独一无二的             | 限定范围“这样的”   |
+ | 描述                   | 分类               |
+ | non-essential modifier | essential modifier |
+ | 不必要信息             | 必要信息           |
 ##### 状语从句
 - 状语从句省略的形式：从句引导词 + doing/done/形容词短语/动词短语
 - 状语从句省略的规则：主语和从句主语一致时可省略
@@ -706,12 +706,12 @@ all …… some ……
 #### 动词
 ##### 时态
 
-|状态/时间|一般式|进行式|完成式|完成进行式|
-|:----|:----|:----|:----|:----|
-|现在时|do/does||have done|have been doing|
-|过去时|did||had done||
-|将来时|will do||||
-|过去将来时|would do||||
+| 状态/时间  | 一般式   | 进行式 | 完成式    | 完成进行式      |
+| :--------- | :------- | :----- | :-------- | :-------------- |
+| 现在时     | do/does  |        | have done | have been doing |
+| 过去时     | did      |        | had done  |                 |
+| 将来时     | will do  |        |           |                 |
+| 过去将来时 | would do |        |           |                 |
 
 1. 一般过去时
 	- 时间标志词
@@ -723,10 +723,10 @@ all …… some ……
 		- since + 过去时间
 		- in/within/during/over + the past/last/recent + 时间段
 	
-	|时态|过去|动作|
-	|:----|:----|:----|
-	|did|动作发生在过去，与现在无关|只强调动作本身，不强调影响|
-	|have done|过去发生的动作持续到现在|强调过去发生的动作时对现在的影响和状态|
+ | 时态      | 过去                       | 动作                                   |
+ | :-------- | :------------------------- | :------------------------------------- |
+ | did       | 动作发生在过去，与现在无关 | 只强调动作本身，不强调影响             |
+ | have done | 过去发生的动作持续到现在   | 强调过去发生的动作时对现在的影响和状态 |
 3. 过去完成时
 	- 在句中见到 had done 要寻找
 		- 表示“过去之前已经”的时间标志词，如“by + 过去时间”
