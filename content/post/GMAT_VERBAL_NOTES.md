@@ -141,8 +141,9 @@ draft: false
  | :--------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
  | Argument   | A. citing examples摆事实 <br/>&emsp;1) positive 正例，榜样<br/>&emsp;&emsp;a. 不同个体重现相同逻辑<br/>&emsp;&emsp;b.有因有果<br/>&emsp;2)negative 反面教材<br/>&emsp;&emsp;a. 无因无果<br/>&emsp;&emsp;b. 双重否定表强调 <br/>B. Providing additional information to explain讲道理 |
  | Plan——Goal | 1)目标可行<br/>2)无副作用<br/>3)手段可行                                                                                                                                                                                                                                            |
-	- <font color=Chocolate>provided 出现在句首 = if</font>
-	- <font color=Chocolate>Plan——Goal：方案对比(most, only)的选项通常不予考虑，文章结论存在对比，选项才能对比</font>
+ 
+- <font color=Chocolate>provided 出现在句首 = if</font>
+- <font color=Chocolate>Plan——Goal：方案对比(most, only)的选项通常不予考虑，文章结论存在对比，选项才能对比</font>
 #### 解释题
 1. Key words
 	explain, reason(找原因), account for(解释/占比), provide a  rationale for(提供理由), reconcile the discrepancy(解决悖论), paradox, justify(使合理), justification(理由，原因)
@@ -402,6 +403,7 @@ doing/done/to do 不能单独用作谓语动词
  | or   | 联结各种形式的平行结构 |
  | yet  | +句子                  |
  | so   | +句子                  |
+
 2. 并列句正确形式
 	- SVO<font color=LightSeaGreen>;</font> SVO
 	- SVO<font color=LightSeaGreen>, conj.</font> SVO
@@ -411,18 +413,19 @@ doing/done/to do 不能单独用作谓语动词
 		- adv.: however, therefore, thereby, thus(因此), rather(而是), also, then <font color=LightSeaGreen>副词不改变句子结构，只起到修饰作用</font>
 ##### 主从复合句
 1. 名词性从句：充当 n. 使用
-	- 三类引导词
-	
-  | 引导词                                       |
-  | :------------------------------------------- |
-  | that                                         |
-  | whether                                      |
-  | 特殊引导词: what, when, where, who, why, how |
 	- 主语从句：<font color=LightSeaGreen>That he got 800 in GMAT</font> shocked me.
 	- 宾语从句：He told me <font color=LightSeaGreen>that he got 800 in GMAT</font>.
 	- 表语从句：The shocking new is <font color=LightSeaGreen>that he got 800 in GMAT</font>.
 	- 同位语从句：The news <font color=LightSeaGreen>that he got 800 in GMAT</font> shocked me.
 	- 同位语从句和定语从句的区别：<font color=LightSeaGreen>that 是否在从句中充当成分</font>
+	- 三类引导词
+		
+	  | 引导词                                       |
+	  | :------------------------------------------- |
+	  | that                                         |
+	  | whether                                      |
+	  | 特殊引导词: what, when, where, who, why, how |
+
 2. 定语从句：修饰名词，相当于形容词
 	- 定语从句的引导语在从句中必须充当成分
 	- 定语从句的引导词在从句中作<font color=LightSeaGreen>宾语</font>时可以省略
@@ -727,6 +730,7 @@ all …… some ……
  | :-------- | :------------------------- | :------------------------------------- |
  | did       | 动作发生在过去，与现在无关 | 只强调动作本身，不强调影响             |
  | have done | 过去发生的动作持续到现在   | 强调过去发生的动作时对现在的影响和状态 |
+
 3. 过去完成时
 	- 在句中见到 had done 要寻找
 		- 表示“过去之前已经”的时间标志词，如“by + 过去时间”
