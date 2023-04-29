@@ -186,11 +186,11 @@ menu:
     main: []
 
     social:
-        - identifier: github
-          name: #GitHub
-          url: #https://github.com/CaiJimmy/hugo-theme-stack
+        - identifier: mail
+          name: Mail
+          url: arucumaarucuma@gmail.com
           params:
-              icon: #brand-github
+              icon: envenlope
 
         - identifier: twitter
           name: #Twitter
