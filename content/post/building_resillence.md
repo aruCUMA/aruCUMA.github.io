@@ -3,6 +3,8 @@ title: "Building Resilience, Stay Positive and Perspective"
 date: 2023-04-01T22:39:12+08:00
 tags:
 - mindset
+categories:
+- Collection
 draft: false
 description: "Everything is about how you weave your story."
 ---
@@ -66,11 +68,11 @@ What the worst-case of this setback could be
 Find the silver lining
 
 #### Talk positively
-|negative word|positive word|
-|:----|:----|
-|Failure|Obstacle|
-|Downfall|Setback|
-|Horrible|Challenging|
+| negative word | positive word |
+| :------------ | :------------ |
+| Failure       | Obstacle      |
+| Downfall      | Setback       |
+| Horrible      | Challenging   |
 
 #### Evaluate your action
 - Reflect on what could have done differently.
@@ -79,11 +81,11 @@ Find the silver lining
 
 #### Choose to be positive
 3:1 = positive : negative is good for health mentally and physically.
-|Attitude|React to bad review|
-|:----|:----|
-|很多人骂我，我很烂，我不适合这个工作|negative| 
-|很多人骂我，他们是一群嫉妒心强的王八蛋, 我要证明他们是错的|positive but unrealistic|
-|我得到了很多能够让我提高的建议，我发现了能进步的方向。事情有点棘手，但长远看我会成长很多，比之前好。|positive and constructive|
+| Attitude                                                                                             | React to bad review       |
+| :--------------------------------------------------------------------------------------------------- | :------------------------ |
+| 很多人骂我，我很烂，我不适合这个工作                                                                 | negative                  |
+| 很多人骂我，他们是一群嫉妒心强的王八蛋, 我要证明他们是错的                                           | positive but unrealistic  |
+| 我得到了很多能够让我提高的建议，我发现了能进步的方向。事情有点棘手，但长远看我会成长很多，比之前好。 | positive and constructive |
 
 ### Recruit and Connect with your advisor board
 Action oriented unemotionally and don't judge: Discuss —— Plan —— Action
