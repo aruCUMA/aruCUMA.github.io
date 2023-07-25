@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GMAT_VERBAL_NOTES.md",
-                "mode": "source",
+                "file": "资源集合.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -64,13 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "af1b264f937bf420",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a6467b673617640f",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GMAT_VERBAL_NOTES.md",
+                "file": "资源集合.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GMAT_VERBAL_NOTES.md",
+                "file": "资源集合.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GMAT_VERBAL_NOTES.md"
+                "file": "资源集合.md"
               }
             }
           }
@@ -135,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,6 +157,12 @@
   },
   "active": "5515ca3530802252",
   "lastOpenFiles": [
+    "找工预备役_找工网站.md",
+    "资源集合.md",
+    "2023-07-25.md",
+    "GMAT_VERBAL_NOTES.md",
+    "building_resillence.md",
+    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
     "sustainable_life/sustainable_life.md",
     "post/sustainable_life.md",
     "post",
@@ -158,8 +172,6 @@
     "how_I_leave_my_job.md",
     "The_Tragic_Necessity_of_Human_Life.md",
     "how_to_use_beancount.md",
-    "找工预备役_找工网站.md",
-    "building_resillence.md",
     "how_to_be_a_parent_in_era_with_less_choices.md",
     "sustainable_life/excercise_aged.png",
     "sustainable_life/excercise_adult.png",
@@ -174,7 +186,6 @@
     "sensory_room/sensory_board.png",
     "sensory_room/4D671497-23D3-4498-8992-698536890CA9.png",
     "4D671497-23D3-4498-8992-698536890CA9.png",
-    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
     "sensory_room.md",
     "sensory_room",
     "collection_bear/collection_bear.md",
@@ -191,9 +202,6 @@
     "(/post",
     "(",
     "collection_bear.md",
-    "collection_bear",
-    "change_source_page.png.md",
-    "img/how_to_have_a_blog_with_hugo_and_github_pages.md",
-    "how_to_have_a_blog_with_hugo_and_github_pages.md"
+    "collection_bear"
   ]
 }
