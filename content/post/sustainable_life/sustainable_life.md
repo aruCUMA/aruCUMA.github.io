@@ -108,7 +108,7 @@ draft: false
 
 ### 眼科体检必检项
 
-[[sustainable_life#^24e941|见上]]
+见上
 
 ### 注意事项
 
@@ -120,10 +120,13 @@ draft: false
 ## 补剂
 维生素 B: 
 - 脱发
+
 维生素 D: 
 - 抑郁症
 - 健康服用量每日 400-600 IU
-[[sustainable_life#^a009be|叶黄素]]
+
+叶黄素：见上
+
 鱼油:
 - 干眼症、降血压、降血脂……
 -  有效含量 Omega3，由 EPA + DHA 构成
@@ -131,13 +134,16 @@ draft: false
 - 日常保健 Omega3 含量 60% 以上，高血压高血脂人群 80% 以上 
 - 低头吞咽容易吞“举头吞药片，低头咽胶囊“
 - 品牌推荐：WHC、omegavia
+
 ![品牌推荐](/post/sustainable_life/品牌推荐.jpg)
+
 ![浓度推荐](/post/sustainable_life/浓度推荐.jpg)
 
 镁
+
 辅酶Q10
 
 
-参考资料
+补充资料：
 [FDA膳食补剂介绍](https://www.fda.gov/food/dietary-supplements)
 [FDA膳食补剂科普](https://www.fda.gov/food/information-consumers-using-dietary-supplements/supplement-your-knowledge)
