@@ -135,7 +135,7 @@ draft: false
 - 低头吞咽容易吞“举头吞药片，低头咽胶囊“
 - 品牌推荐：WHC、omegavia
 
-![品牌推荐](/post/sustainable_life/品牌推荐.jpg)
+![品牌推荐](/post/sustainable_life/品牌推荐.jpeg)
 
 ![浓度推荐](/post/sustainable_life/浓度推荐.jpg)
 
