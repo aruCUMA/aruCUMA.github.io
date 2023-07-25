@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+                "file": "sustainable_life/sustainable_life.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a6467b673617640f",
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+                "file": "sustainable_life/sustainable_life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+                "file": "sustainable_life/sustainable_life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md"
+                "file": "sustainable_life/sustainable_life.md"
               }
             }
           }
@@ -142,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,13 +157,23 @@
   },
   "active": "5515ca3530802252",
   "lastOpenFiles": [
+    "sustainable_life/品牌推荐.jpeg",
+    "sustainable_life/品牌推荐.png",
+    "sustainable_life/品牌推荐.jpg",
+    "sustainable_life/品牌推荐.jpg.sb-c749710f-cLiQ6Y",
+    "sustainable_life/浓度推荐.jpg",
+    "浓度推荐.jpg",
+    "品牌推荐.jpg",
+    "sustainable_life/excercise_adult.png",
+    "The_Tragic_Necessity_of_Human_Life.md",
+    "Program Language Learning Map.md",
+    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
     "How_to_build_your_own_capsule_wardrobe/How_to_build_your_own_capsule_wardrobe.md",
     "资源集合.md",
     "找工预备役_找工网站.md",
     "2023-07-25.md",
     "GMAT_VERBAL_NOTES.md",
     "building_resillence.md",
-    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
     "sustainable_life/sustainable_life.md",
     "post/sustainable_life.md",
     "post",
@@ -171,22 +181,15 @@
     "sustainable_life/ Healthy_Eating_Plate.jpeg",
     "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential_Stuckness.md",
     "how_I_leave_my_job.md",
-    "The_Tragic_Necessity_of_Human_Life.md",
     "how_to_use_beancount.md",
     "how_to_be_a_parent_in_era_with_less_choices.md",
     "sustainable_life/excercise_aged.png",
-    "sustainable_life/excercise_adult.png",
     "sustainable_life/Screen Shot 2022-07-10 at 5.15.04 PM.png",
-    "sustainable_life/Screen Shot 2022-07-10 at 5.14.36 PM.png",
     "sustainable_life",
     "sustainable_life.md",
     "未命名文件夹/sustainable_life.md",
-    "未命名文件夹/ Healthy_Eating_Plate.jpeg",
     "未命名文件夹",
     "sensory_room/sensory_room.md",
-    "sensory_room/sensory_board.png",
-    "sensory_room/4D671497-23D3-4498-8992-698536890CA9.png",
-    "4D671497-23D3-4498-8992-698536890CA9.png",
     "sensory_room.md",
     "sensory_room",
     "collection_bear/collection_bear.md",
@@ -196,12 +199,9 @@
     "The Remedy for Creative Block and Existential Stuckness.md",
     "The Remedy for Creative Block and Existential Stuckness",
     "the.md",
-    "未命名.md",
     "未命名",
-    "(/post/collection_bear/bear_with_scone.png.md",
     "(/post/collection_bear",
     "(/post",
-    "(",
-    "collection_bear"
+    "("
   ]
 }
