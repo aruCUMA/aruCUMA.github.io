@@ -149,4 +149,9 @@ git push
 git remote -v //查看分支链接
 git branch -a //查看远程分支
 git remote remove origin //删除远程分支 origin
+//更新 token
+$ git credential-osxkeychain erase  
+host=github.com  
+protocol=https  
+> [Press Return] //再输入 git push 的命令就会被要求输入新的密码
 ```

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "资源集合.md",
+                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "资源集合.md",
+                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "资源集合.md",
+                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "资源集合.md"
+                "file": "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md"
               }
             }
           }
@@ -157,8 +157,9 @@
   },
   "active": "5515ca3530802252",
   "lastOpenFiles": [
-    "找工预备役_找工网站.md",
+    "How_to_build_your_own_capsule_wardrobe/How_to_build_your_own_capsule_wardrobe.md",
     "资源集合.md",
+    "找工预备役_找工网站.md",
     "2023-07-25.md",
     "GMAT_VERBAL_NOTES.md",
     "building_resillence.md",
@@ -201,7 +202,6 @@
     "(/post/collection_bear",
     "(/post",
     "(",
-    "collection_bear.md",
     "collection_bear"
   ]
 }
