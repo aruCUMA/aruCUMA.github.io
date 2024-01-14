@@ -82,3 +82,13 @@ tmd 第一次觉得看电影是一种煎熬，恨自己为什么订了中间的�
       - **减轻压力：**个人实验减轻了实现预定结果的压力，培养了一种轻松的冒险感。
       - **增强决策能力：**通过尝试不同的方法，您可以做出更明智的决策，并避免刚性目标可能忽视的陷阱。
 
+## Tech
+### [Twin transition skills dashboard](https://www.bruegel.org/dataset/twin-transition-skills-dashboard)
+
+可以尝试复现下这玩意，而且这个作者是 Policy Economics 毕业的，查了下课程安排定量的东西也很多，好像比一般的社科更硬核且更有趣一点，但真的要学的话不知道怎么补中经的课。这个机构招 analyst 的话还需要申请人有至少一年的实证经验，存一下。
+
+## 新闻
+### [2024 台湾大选观察](https://www.twreporter.org/a/data-reporter-2024-election-10th-legislators-performance?utm_source=%E9%9B%99%E9%80%B1%E9%9B%BB%E5%AD%90%E5%A0%B1&utm_campaign=b6af7dea6c-EMAIL_CAMPAIGN_2024_01_11&utm_medium=email&utm_term=0_-c8f21f71c1-%5BLIST_EMAIL_ID%5D)
+
+学习下怎么得出 6 个重点的，但好像还是没有 valid 的线
+
