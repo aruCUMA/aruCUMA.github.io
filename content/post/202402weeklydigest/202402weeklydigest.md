@@ -1,5 +1,5 @@
 ---
-title: "202402weeklydigest"
+title: Weekly Digest 2024Week2 (20240108-20240114)
 date: 2024-01-14T19:47:53+01:00
 tags: 
 - weeklydigest
@@ -23,6 +23,8 @@ draft: false
 
 最后，刚发现荷兰的低温会至少持续到 3 月，早知道就转运些冬衣来了。但算了，如果陪伴我很久的衣服在转运中丢了的话，我大概会很难接受。
 
+哦，还有。最近发觉如果强迫我自己非得一段时间专注做一件事情，美其名曰集中所有时间做重要的事情，反而会让我觉得因为刺激不够多而无聊，或者觉得总有时间，更难开始做事、更难集中注意力做事。所以安排的时候就至少一件事情能有多个刺激，或者一次做多件事吧。
+
 ## 电影
 ### The Banshees of Inisherin
 tmd 第一次觉得看电影是一种煎熬，恨自己为什么订了中间的位置导致很难跑掉。爱尔兰英语听起来好困难，甚至我要靠荷兰语字幕来辨认主角们说了什么，比语言和字幕我都看不懂的那种还痛苦。2 个小时的电影纯线性叙事，对我这种无法集中注意力的人来说太过无聊，真的是坐牢的 2 个小时。
@@ -32,6 +34,17 @@ tmd 第一次觉得看电影是一种煎熬，恨自己为什么订了中间的�
 
 ## Article
 ### An artist with an unbreakable heart
+这周边缘人的推文让我想到刚放假的时候去 Stedelijk Museum Schiedam 看的草间弥生展。
+> Looking back at the period of 1965 to 1970 from today's perspective, we find a vulnerable artist in an unruly environment, yet at the same time we see the strength of a global artist with an unbreakable will. Everything that makes her famous and loved today is already there during her time in the Netherlands.
+
+![mirror_balls](/post/202402weeklydigest/IMG_8017.HEIC)
+![grey](/post/202402weeklydigest/IMG_8023.HEIC)
+
+> an artist’s role is “to make you realize the doom and glory of knowing who you are and what you are.” The measure of our creative vitality lies in how intimately we contact both the doom and the glory of being, what we make of the restless tension between our own poles, how we harmonize them into something beautiful.
+
+> painting the artist as a divided creature that yearns for wholeness and turns that yearning into the creative act
+
+### Deal with uncertainty
 
 
 
