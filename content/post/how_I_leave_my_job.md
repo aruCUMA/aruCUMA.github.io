@@ -1,10 +1,12 @@
 ---
-title: "我是如何辞职了的"
+title: 我是如何辞职了的
 date: 2023-04-10T23:06:02+08:00
-tags:
+tags: 
 draft: false
-description: "在纠结要不要辞职那段时期写的一些东西。"
-hidden: true
+description: 在纠结要不要辞职那段时期写的一些东西。
+hidden: false
+categories:
+  - 想法碎片
 ---
 感谢港台文学 bot 带来了邱妙津；感谢豆友 cosmos 带来了 Leadership Identity.
 
