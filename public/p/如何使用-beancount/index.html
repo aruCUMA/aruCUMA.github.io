@@ -1,0 +1,850 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='（我）为什么要用 Beancount 我知道 Beancount 是因为 geekplux 的一篇文章，从中我了解到 Beancount 是一种复式记账工具，这一下就把我带回到大学的时候学会计学原理时为会计科目和配平苦'>
+<title>如何使用 Beancount</title>
+
+<link rel='canonical' href='https://aruCUMA.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-beancount/'>
+
+<link rel="stylesheet" href="/scss/style.min.30d5a1c302cc09a5c5b22591a8628184195de2b0809f8467e28409c7d01b75c1.css"><meta property='og:title' content='如何使用 Beancount'>
+<meta property='og:description' content='（我）为什么要用 Beancount 我知道 Beancount 是因为 geekplux 的一篇文章，从中我了解到 Beancount 是一种复式记账工具，这一下就把我带回到大学的时候学会计学原理时为会计科目和配平苦'>
+<meta property='og:url' content='https://aruCUMA.github.io/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-beancount/'>
+<meta property='og:site_name' content='aruCUMA'>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='funTools' /><meta property='article:tag' content='personalFinance' /><meta property='article:published_time' content='2023-03-29T21:44:29&#43;08:00'/><meta property='article:modified_time' content='2023-03-29T21:44:29&#43;08:00'/>
+<meta name="twitter:title" content="如何使用 Beancount">
+<meta name="twitter:description" content="（我）为什么要用 Beancount 我知道 Beancount 是因为 geekplux 的一篇文章，从中我了解到 Beancount 是一种复式记账工具，这一下就把我带回到大学的时候学会计学原理时为会计科目和配平苦">
+    <link rel="shortcut icon" href="/favicon.ico" />
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RW1VKLLGYV"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-RW1VKLLGYV', { 'anonymize_ip': false });
+}
+</script>
+
+    </head>
+    <body class="
+    article-page
+    ">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "auto");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
+
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
+</script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky ">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
+
+    <header>
+        
+            
+            <figure class="site-avatar">
+                <a href="/">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/avatar_hu86f2e3c0fcb1d5dc2a8360cb9f534321_2437715_300x0_resize_box_3.png" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+                </a>
+                
+                    <span class="emoji">❄️</span>
+                
+            </figure>
+            
+        
+        
+        <div class="site-meta">
+            <h1 class="site-name"><a href="/">aruCUMA</a></h1>
+            <h2 class="site-description"></h2>
+        </div>
+    </header><ol class="social-menu">
+            
+                <li>
+                    <a 
+                        href=''
+                        target="_blank"
+                        
+                        rel="me"
+                    >
+                        
+                        
+                            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                        
+                    </a>
+                </li>
+            
+                <li>
+                    <a 
+                        href='arucumaarucuma@gmail.com'
+                        target="_blank"
+                        title="Mail"
+                        rel="me"
+                    >
+                        
+                        
+                            <?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg id="Layer_1" style="enable-background:new 0 0 64 64;" version="1.1" viewBox="0 0 64 64" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><style type="text/css">
+	.st0{fill:#134563;}
+</style><g><g id="Icon-Envelope" transform="translate(78.000000, 232.000000)"><path class="st0" d="M-22.5-213.2l-1.9-1.9l-17.6,17.6c-2.2,2.2-5.9,2.2-8.1,0L-67.7-215l-1.9,1.9l13.1,13.1     l-13.1,13.1l1.9,1.9l13.1-13.1l2.6,2.6c1.6,1.6,3.7,2.5,5.9,2.5s4.3-0.9,5.9-2.5l2.6-2.6l13.1,13.1l1.9-1.9l-13.1-13.1     L-22.5-213.2" id="Fill-3"/><path class="st0" d="M-26.2-181.6h-39.5c-2.3,0-4.2-1.9-4.2-4.2v-28.2c0-2.3,1.9-4.2,4.2-4.2h39.5     c2.3,0,4.2,1.9,4.2,4.2v28.2C-22-183.5-23.9-181.6-26.2-181.6L-26.2-181.6z M-65.8-215.5c-0.8,0-1.4,0.6-1.4,1.4v28.2     c0,0.8,0.6,1.4,1.4,1.4h39.5c0.8,0,1.4-0.6,1.4-1.4v-28.2c0-0.8-0.6-1.4-1.4-1.4H-65.8L-65.8-215.5z" id="Fill-4"/></g></g></svg>
+                        
+                    </a>
+                </li>
+            
+        </ol><ol class="menu" id="main-menu">
+        
+        
+        
+        <li >
+            <a href='/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
+
+
+
+                
+                <span>Home</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/archives/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
+
+
+
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/search/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+        
+        <li >
+            <a href='/links/' >
+                
+                
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-link" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M10 14a3.5 3.5 0 0 0 5 0l4 -4a3.5 3.5 0 0 0 -5 -5l-.5 .5" />
+  <path d="M14 10a3.5 3.5 0 0 0 -5 0l-4 4a3.5 3.5 0 0 0 5 5l.5 -.5" />
+</svg>
+
+
+
+                
+                <span>Links</span>
+            </a>
+        </li>
+        
+
+        <div class="menu-bottom-section">
+            
+            
+                <li id="dark-mode-toggle">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                    <span>Dark Mode</span>
+                </li>
+            
+        </div>
+    </ol>
+</aside>
+
+    <aside class="sidebar right-sidebar sticky">
+        
+            
+                
+    <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-hash" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <line x1="5" y1="9" x2="19" y2="9" />
+  <line x1="5" y1="15" x2="19" y2="15" />
+  <line x1="11" y1="4" x2="7" y2="20" />
+  <line x1="17" y1="4" x2="13" y2="20" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Table of contents</h2>
+        
+        <div class="widget--toc">
+            <nav id="TableOfContents">
+  <ol>
+    <li><a href="#我为什么要用-beancount">（我）为什么要用 Beancount</a></li>
+    <li><a href="#如何安装-beancount以-macos-为例">如何安装 Beancount（以 macOS 为例）</a>
+      <ol>
+        <li><a href="#为减少麻烦确保以下内容为最新版本">为减少麻烦，确保以下内容为最新版本</a></li>
+        <li><a href="#安装-beancount-本体和可视化工具-fava">安装 Beancount 本体和可视化工具 Fava</a></li>
+        <li><a href="#给编辑器安装-beancount-配色">给编辑器安装 Beancount 配色</a>
+          <ol>
+            <li><a href="#sublime-text我在用">sublime text（我在用）</a></li>
+            <li><a href="#vscode我没在用但是发现有">vscode（我没在用但是发现有）</a></li>
+          </ol>
+        </li>
+      </ol>
+    </li>
+    <li><a href="#开始使用-beancount">开始使用 Beancount</a>
+      <ol>
+        <li><a href="#账本和账户设置">账本和账户设置</a></li>
+        <li><a href="#开始记账">开始记账</a></li>
+        <li><a href="#我的一些记账习惯">我的一些记账习惯</a></li>
+      </ol>
+    </li>
+    <li><a href="#可视化">可视化</a></li>
+    <li><a href="#可参考链接">可参考链接</a></li>
+  </ol>
+</nav>
+        </div>
+    </section>
+
+            
+        
+    </aside>
+
+
+            <main class="main full-width">
+    <article class="main-article">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+
+    <div class="article-title-wrapper">
+        <h2 class="article-title">
+            <a href="/p/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-beancount/">如何使用 Beancount</a>
+        </h2>
+
+        
+    </div>
+
+    
+    
+    
+    
+    <footer class="article-time">
+        
+        <div>
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+            <time class="article-time--published">Mar 29, 2023</time>
+        </div>
+        
+
+        
+        <div>
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+            <time class="article-time--reading">
+                5 minute read
+            </time>
+        </div>
+        
+
+        
+        <div>
+            <?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg enable-background="new 0 0 32 32" height="32px" id="Layer_1" version="1.1" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="grid-2"><path d="M10.246,4.228c0-0.547-0.443-0.991-0.99-0.991H3.914c-0.548,0-0.991,0.443-0.991,0.991V9.57   c0,0.546,0.443,0.99,0.991,0.99h5.342c0.547,0,0.99-0.444,0.99-0.99V4.228z" fill="#515151"/><path d="M19.453,4.228c0-0.547-0.443-0.991-0.991-0.991h-5.343c-0.546,0-0.99,0.443-0.99,0.991V9.57   c0,0.546,0.444,0.99,0.99,0.99h5.343c0.548,0,0.991-0.444,0.991-0.99V4.228z" fill="#515151"/><path d="M28.868,4.228c0-0.547-0.443-0.991-0.99-0.991h-5.342c-0.548,0-0.991,0.443-0.991,0.991V9.57   c0,0.546,0.443,0.99,0.991,0.99h5.342c0.547,0,0.99-0.444,0.99-0.99V4.228z" fill="#515151"/><path d="M10.246,13.224c0-0.547-0.443-0.99-0.99-0.99H3.914c-0.548,0-0.991,0.443-0.991,0.99v5.342   c0,0.549,0.443,0.99,0.991,0.99h5.342c0.547,0,0.99-0.441,0.99-0.99V13.224z" fill="#515151"/><path d="M19.453,13.224c0-0.547-0.443-0.99-0.991-0.99h-5.343c-0.546,0-0.99,0.443-0.99,0.99v5.342   c0,0.549,0.444,0.99,0.99,0.99h5.343c0.548,0,0.991-0.441,0.991-0.99V13.224z" fill="#515151"/><path d="M28.868,13.224c0-0.547-0.443-0.99-0.99-0.99h-5.342c-0.548,0-0.991,0.443-0.991,0.99v5.342   c0,0.549,0.443,0.99,0.991,0.99h5.342c0.547,0,0.99-0.441,0.99-0.99V13.224z" fill="#515151"/><path d="M10.246,22.43c0-0.545-0.443-0.99-0.99-0.99H3.914c-0.548,0-0.991,0.445-0.991,0.99v5.344   c0,0.547,0.443,0.99,0.991,0.99h5.342c0.547,0,0.99-0.443,0.99-0.99V22.43z" fill="#515151"/><path d="M19.453,22.43c0-0.545-0.443-0.99-0.991-0.99h-5.343c-0.546,0-0.99,0.445-0.99,0.99v5.344   c0,0.547,0.444,0.99,0.99,0.99h5.343c0.548,0,0.991-0.443,0.991-0.99V22.43z" fill="#515151"/><path d="M28.868,22.43c0-0.545-0.443-0.99-0.99-0.99h-5.342c-0.548,0-0.991,0.445-0.991,0.99v5.344   c0,0.547,0.443,0.99,0.991,0.99h5.342c0.547,0,0.99-0.443,0.99-0.99V22.43z" fill="#515151"/></g></svg>
+            <time class="article-words">
+                2191 words
+            </time>
+        </div>
+        
+
+    </footer>
+    
+
+    
+</div>
+</header>
+
+    <section class="article-content">
+    
+    
+    <h2 id="我为什么要用-beancount">（我）为什么要用 Beancount</h2>
+<p>我知道 Beancount 是因为 geekplux 的<a class="link" href="https://geekplux.com/posts/accounting-earnings-report-graph-theory"  target="_blank" rel="noopener"
+    >一篇文章</a>，从中我了解到 Beancount 是一种复式记账工具，这一下就把我带回到大学的时候学会计学原理时为会计科目和配平苦恼，但意外的成绩考得不错的回忆里（这门课的老师非常喜欢课堂上点人回答问题，还好我很幸运地一次都没被点到，因为在讲完后面的某章内容前，提问的问题我真的一个都不会，直到学完所有的基础知识才逐渐掌握了）。</p>
+<p>除了能给我带来一些让我快乐的优越感和成就感以外，复式记账毕竟是一种独特的认识和解释世界的视角和工具，我想 Beancount 还能帮助我将这一思考方式内化为我的想法的一部分。为思想打开新的一扇门、拓展一个新的空间对我来说总是个非常有趣的事情。</p>
+<p>另外，在整理账本的过程中，我发现了一些我没有意识到也是成本的一些支出项目，例如记账的时候需要将 record 归类，在想它到底应该归类到哪个账本里的时候，我就会知道这个成本是必须要付的，还是只是维持某个状态而必须要付的。这一发现对于评估需要每种生活状态的最低成本来说真的非常重要，能够帮助我更有依据地做出一些选择（比如上一个让我压力特别大，并且虽然也挣了一些钱但也花了很大一部分来消减不开心，的班到底是不是值得的）。</p>
+<p>最后，记账时需要用到的摊销这一方式能够还原支出的确切使用时间，进而更科学地做预算和评估自己的消费情况（主要是能缓解当月有大额支出的负罪感，摊 1 年不行就摊 2 年 hhhh）。</p>
+<p>所以，作为一个极其讨厌手动量化，极其讨厌给自己每天设很多任务导致一睁眼就是代办任务，极其讨厌以不断运转的机器的标准要求自己的人，使用 Beancount 来记账也能获得很多个人乐趣和实际收益。</p>
+<p>BTW，在用 Beancount 之前，从各个记账软件辗转之后我用了很长一段时间 numbers 自带的记账模版也非常地好用，其中和上月对比、和预算对比的方法非常实用。</p>
+<h2 id="如何安装-beancount以-macos-为例">如何安装 Beancount（以 macOS 为例）</h2>
+<p>谁能想到我之前误以为它是一个 App，并且还真找到了一个来安装，直到好几年之后才发现并不是这样。</p>
+<h3 id="为减少麻烦确保以下内容为最新版本">为减少麻烦，确保以下内容为最新版本</h3>
+<ul>
+<li>python</li>
+<li>pip</li>
+<li>Command Line Tools for Xcode</li>
+</ul>
+<h3 id="安装-beancount-本体和可视化工具-fava">安装 Beancount 本体和可视化工具 Fava</h3>
+<p>打开 terminal/终端，通过 pip 安装</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">pip3 install beancount, fava
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>当当，这就完成了！</p>
+<h3 id="给编辑器安装-beancount-配色">给编辑器安装 Beancount 配色</h3>
+<p>可以使用 emacs, vim, sublime text 和 vscode 作为编辑器，安装模版后可以让它有配色，然后记账的时候容易看一些</p>
+<h4 id="sublime-text我在用">sublime text（我在用）</h4>
+<ul>
+<li>
+<p>首先需要安装 <a class="link" href="https://packagecontrol.io/installation"  target="_blank" rel="noopener"
+    >package control</a></p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">//press cmd+shift+p
+</span></span><span class="line"><span class="cl">install package control
+</span></span></code></pre></td></tr></table>
+</div>
+</div></li>
+<li>
+<p>其次通过 package control 安装 <a class="link" href="https://packagecontrol.io/packages/Beancount"  target="_blank" rel="noopener"
+    >beancount</a> 配色</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">//sublime text —— settings —— package control
+</span></span><span class="line"><span class="cl"> install package beancount
+</span></span></code></pre></td></tr></table>
+</div>
+</div></li>
+</ul>
+<h4 id="vscode我没在用但是发现有">vscode（我没在用但是发现有）</h4>
+<p>拓展中搜索 beancount 即可安装</p>
+<h2 id="开始使用-beancount">开始使用 Beancount</h2>
+<h3 id="账本和账户设置">账本和账户设置</h3>
+<p>在开始记账前，首先要新建一些基础设置的文档，我的设置文档主要有两个，index.beancount 和 account.beancount。
+index.beancount 主要承担两个作用，一个是账本 title 和货币的基本信息，另一个是 include 账户设置文件（即 account.beancount）和分月的记账文件，后续在用 fava 进行可视化的时候，可以直接把这一个文件作为路径目标。我的（部分）设置如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">; Setting
+</span></span><span class="line"><span class="cl">option &#34;title&#34; &#34;MyAccount&#34;
+</span></span><span class="line"><span class="cl">option &#34;operating_currency&#34; &#34;CNY&#34; 
+</span></span><span class="line"><span class="cl">option &#34;operating_currency&#34; &#34;USD&#34;
+</span></span><span class="line"><span class="cl">option &#34;operating_currency&#34; &#34;EUR&#34;
+</span></span><span class="line"><span class="cl">option &#34;render_commas&#34; &#34;true&#34;
+</span></span><span class="line"><span class="cl">include &#34;account.beancount&#34; ;资产账户设置及初始化
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">; 逐月账本
+</span></span><span class="line"><span class="cl">; 2024
+</span></span><span class="line"><span class="cl">include &#34;2024-Subscription.beancount&#34;
+</span></span><span class="line"><span class="cl">; 2023
+</span></span><span class="line"><span class="cl">include &#34;2023-Subscription.beancount&#34;
+</span></span><span class="line"><span class="cl">include &#34;2023-01.beancount&#34;
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>account.beancount 中需要设置更为具体的账本名称，即分类标准。预设的、大的分类主要有 5 个：<code>assets, equity, income, expenses, liabilities</code>。需要在大的分类标准下根据自己的情况设置更细致的分类，我的分类方法如下：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span><span class="lnt">15
+</span><span class="lnt">16
+</span><span class="lnt">17
+</span><span class="lnt">18
+</span><span class="lnt">19
+</span><span class="lnt">20
+</span><span class="lnt">21
+</span><span class="lnt">22
+</span><span class="lnt">23
+</span><span class="lnt">24
+</span><span class="lnt">25
+</span><span class="lnt">26
+</span><span class="lnt">27
+</span><span class="lnt">28
+</span><span class="lnt">29
+</span><span class="lnt">30
+</span><span class="lnt">31
+</span><span class="lnt">32
+</span><span class="lnt">33
+</span><span class="lnt">34
+</span><span class="lnt">35
+</span><span class="lnt">36
+</span><span class="lnt">37
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">//Assets
+</span></span><span class="line"><span class="cl">2019-01-01 open Assets:Cash
+</span></span><span class="line"><span class="cl">2019-01-01 open Assets:Bank:A
+</span></span><span class="line"><span class="cl">2019-01-01 open Assets:Bank:B
+</span></span><span class="line"><span class="cl">2019-01-01 open Assets:Alipay
+</span></span><span class="line"><span class="cl">2019-01-01 open Assets:Wepay
+</span></span><span class="line"><span class="cl">2019-01-01 open Assets:AccountPrepaid //记录预付款，摊销或实际付款后销掉
+</span></span><span class="line"><span class="cl">2019-01-01 open Assets:AccountReceivable //记录帮别人代付款的支出，收回后销掉
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">//Equity
+</span></span><span class="line"><span class="cl">2019-01-01 open Equity:Balance
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">//Income
+</span></span><span class="line"><span class="cl">2019-01-01 open Income:Salary:MajorJob
+</span></span><span class="line"><span class="cl">2019-01-01 open Income:Salary:Freelance
+</span></span><span class="line"><span class="cl">2019-01-01 open Income:Salary:Other
+</span></span><span class="line"><span class="cl">2019-01-01 open Income:Invest
+</span></span><span class="line"><span class="cl">2019-01-01 open Income:Parents
+</span></span><span class="line"><span class="cl">2019-01-01 open Income:Other
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">//Expenses
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:DailyLife:Meal //日常生活，有多个分类，仅展示 2 个
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:DailyLife:Transport
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:SustainabilityLife:Art //让我觉得开心的支出，仅展示 2 个
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:SustainabilityLife:Exercise 
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:SustainabilityLife:Wandering:FlightTrain //出去玩
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:SustainabilityLife:Wandering:Hotel
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:LearningFurther:WorkingSkill //学习
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:IncomeRelated:Tax //社保和税
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:IncomeRelated:MandatoryInsurance:Pension
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:IncomeRelated:MandatoryInsurance:Unemployment
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:IncomeRelated:MandatoryInsurance:Medical
+</span></span><span class="line"><span class="cl">2019-01-01 open Expenses:Gift
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">//Liabilities
+</span></span><span class="line"><span class="cl">2019-01-01 open Liabilities:Credit-Card:A //信用卡
+</span></span><span class="line"><span class="cl">2019-01-01 open Liabilities:Huabei
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="开始记账">开始记账</h3>
+<p>有借必有贷，借贷必相等，欢迎来到会计学复式记账的世界。
+根据我自己的使用习惯，我的记账文件的创建逻辑是每个月单独一个账本，同时每年有一个记录相同支出的账本，包括每月同一天扣费的视频网站会员费、工资、社保、公积金、房租等等。
+具体的语法为：</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">YYYY-mm-dd * [&#34;payee&#34;] &#34;description&#34; <span class="ni">#tags</span>
+</span></span><span class="line"><span class="cl">  posting 1
+</span></span><span class="line"><span class="cl">  posting 2
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">//如
+</span></span><span class="line"><span class="cl">2022-10-07 * &#34;Tiimo&#34; <span class="ni">#payinadvance</span>
+</span></span><span class="line"><span class="cl">	Expenses:SustainabilityLife:Subscription 14 CNY
+</span></span><span class="line"><span class="cl">	Assets:AccountPrepaid -14 CNY
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">//货币换算
+</span></span><span class="line"><span class="cl">2022-12-06 * &#34;还信用卡&#34; <span class="ni">#payinadvance</span>
+</span></span><span class="line"><span class="cl">	Liabilities:Credit-Card:A 200 USD @@ 1500 CNY
+</span></span><span class="line"><span class="cl">	Assets:Bank:BOC-6077 -1500 CNY
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h3 id="我的一些记账习惯">我的一些记账习惯</h3>
+<ul>
+<li>工资的处理
+税后工资和公积金分别计入 Income 的细分账户中，税和社保分别计入 Expenses 的细分账户中。</li>
+<li>全年一次性付费订阅的处理
+在当月的账本中，该次付费计入 Assets:AccountPrepaid，并在 12 个月中分摊，再计入具体的 Expenses 项</li>
+<li>信用卡和花呗
+在当月的消费中，计入实际的 Expenses 和 Liabilities，后续在还款时用 Assests 的减少销掉这笔 Liabilities</li>
+<li>采用 tag payinadvance 来查看总和是否为 0，来确认是不是都正确摊销掉了。</li>
+<li>每一次旅行支出都有自己的 tag，来查看非实用型大型消费的预算。</li>
+</ul>
+<h2 id="可视化">可视化</h2>
+<p>打开 terminal/终端，输入</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">fava &#39;path&#39; //此处的 path 是到之前设置的 index.beancount 的路径
+</span></span></code></pre></td></tr></table>
+</div>
+</div><p>就会得到一个可视化的地址，在浏览器打开即可。
+开着终端，开着可视化网址，在编辑器里修改的时候，刷新网站就会及时更新，能给到及时反馈就很棒。在 fava 里改的话本地文件也会同步。fava 也会提示哪里没配平的报错。
+另外，fava 中还可以使用 query，我常用的语句如下</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt"> 1
+</span><span class="lnt"> 2
+</span><span class="lnt"> 3
+</span><span class="lnt"> 4
+</span><span class="lnt"> 5
+</span><span class="lnt"> 6
+</span><span class="lnt"> 7
+</span><span class="lnt"> 8
+</span><span class="lnt"> 9
+</span><span class="lnt">10
+</span><span class="lnt">11
+</span><span class="lnt">12
+</span><span class="lnt">13
+</span><span class="lnt">14
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-markdown" data-lang="markdown"><span class="line"><span class="cl">//明细
+</span></span><span class="line"><span class="cl">select date, account, tags, narration, position
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">//Expenses 每月汇总
+</span></span><span class="line"><span class="cl">SELECT sum(cost(position)) as total, year, month 
+</span></span><span class="line"><span class="cl">WHERE account ~ &#34;Expenses:*&#34; 
+</span></span><span class="line"><span class="cl">	and year(date) = 2022 
+</span></span><span class="line"><span class="cl">GROUP BY year, month
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl">//Income 每月汇总
+</span></span><span class="line"><span class="cl">SELECT sum(cost(position)) as total, year, month 
+</span></span><span class="line"><span class="cl">WHERE account ~ &#34;Income:*&#34; 
+</span></span><span class="line"><span class="cl">	and year(date) = 2022 
+</span></span><span class="line"><span class="cl">GROUP BY year, month
+</span></span></code></pre></td></tr></table>
+</div>
+</div><h2 id="可参考链接">可参考链接</h2>
+<ol>
+<li><a class="link" href="https://byvoid.com/zht/blog/beancount-bookkeeping-2/"  target="_blank" rel="noopener"
+    >https://byvoid.com/zht/blog/beancount-bookkeeping-2/</a></li>
+<li><a class="link" href="https://zh.m.wikipedia.org/wiki/%E6%9C%83%E8%A8%88%E7%A7%91%E7%9B%AE"  target="_blank" rel="noopener"
+    >https://zh.m.wikipedia.org/wiki/%E6%9C%83%E8%A8%88%E7%A7%91%E7%9B%AE</a></li>
+<li><a class="link" href="https://docs.google.com/document/d/1wAMVrKIA2qtRGmoVDSUBJGmYZSygUaR0uOMW1GV3YE0/edit#heading=h.yshh8f17jbdb"  target="_blank" rel="noopener"
+    >https://docs.google.com/document/d/1wAMVrKIA2qtRGmoVDSUBJGmYZSygUaR0uOMW1GV3YE0/edit#heading=h.yshh8f17jbdb</a></li>
+<li><a class="link" href="https://docs.google.com/document/d/1P5At-z1sP8rgwYLHso5sEy3u4rMnIUDDgob9Y_BYuWE/edit#"  target="_blank" rel="noopener"
+    >https://docs.google.com/document/d/1P5At-z1sP8rgwYLHso5sEy3u4rMnIUDDgob9Y_BYuWE/edit#</a></li>
+</ol>
+
+</section>
+
+
+    <footer class="article-footer">
+    
+    <section class="article-tags">
+        
+            <a href="/tags/funtools/">funTools</a>
+        
+            <a href="/tags/personalfinance/">personalFinance</a>
+        
+    </section>
+
+
+    
+    <section class="article-copyright">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-copyright" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <path d="M14.5 9a3.5 4 0 1 0 0 6" />
+</svg>
+
+
+
+        <span>Licensed under CC BY-NC-SA 4.0</span>
+    </section>
+    </footer>
+
+
+    
+</article>
+
+    
+
+    
+
+     
+    
+        
+    <script src="https://utteranc.es/client.js" 
+        repo="aruCUMA/aruCUMA.github.io"
+        issue-term="title"
+        
+        label="comment"
+        
+        crossorigin="anonymous"
+        async
+        >
+</script>
+
+<style>
+    .utterances {
+        max-width: unset;
+    }
+</style>
+
+<script>
+    let utterancesLoaded = false;
+
+    function setUtterancesTheme(theme) {
+        let utterances = document.querySelector('.utterances iframe');
+        if (utterances) {
+            utterances.contentWindow.postMessage(
+                {
+                    type: 'set-theme',
+                    theme: `github-${theme}`
+                },
+                'https://utteranc.es'
+            );
+        }
+    }
+
+    addEventListener('message', event => {
+        if (event.origin !== 'https://utteranc.es') return;
+
+        
+        utterancesLoaded = true;
+        setUtterancesTheme(document.documentElement.dataset.scheme)
+    });
+
+    window.addEventListener('onColorSchemeChange', (e) => {
+        if (!utterancesLoaded) return;
+        setUtterancesTheme(e.detail)
+    })
+</script>
+
+
+    
+
+    <footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2020 - 
+        
+        2024 aruCUMA
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.16.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+
+    
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    
+    <div class="pswp__bg"></div>
+
+    
+    <div class="pswp__scroll-wrap">
+
+        
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                
+                
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                        <div class="pswp__preloader__cut">
+                            <div class="pswp__preloader__donut"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div>
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.js"integrity="sha256-ePwmChbbvXbsO02lbM3HoHbSHTHFAeChekF1xKJdleo="crossorigin="anonymous"
+                defer
+                >
+            </script><script 
+                src="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe-ui-default.min.js"integrity="sha256-UKkzOn/w1mBxRmLLGrSeyB4e1xbrp4xylgAWb3M42pU="crossorigin="anonymous"
+                defer
+                >
+            </script><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/default-skin/default-skin.min.css"crossorigin="anonymous"
+            ><link 
+                rel="stylesheet" 
+                href="https://cdn.jsdelivr.net/npm/photoswipe@4.1.3/dist/photoswipe.min.css"crossorigin="anonymous"
+            >
+
+            </main>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.6/dist/vibrant.min.js"integrity="sha256-awcR2jno4kI5X0zL8ex0vi2z&#43;KMkF24hUW8WePSA9HM="crossorigin="anonymous"
+                
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
+
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
+
+        document.head.appendChild(customFont);
+    }());
+</script>
+
+    </body>
+</html>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on aruCUMA</title>
+        <link>https://aruCUMA.github.io/tags/</link>
+        <description>Recent content in Tags on aruCUMA</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 21 Jan 2024 23:04:20 +0100</lastBuildDate><atom:link href="https://aruCUMA.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>weekly digest</title>
+        <link>https://aruCUMA.github.io/tags/weekly-digest/</link>
+        <pubDate>Sun, 21 Jan 2024 23:04:20 +0100</pubDate>
+        
+        <guid>https://aruCUMA.github.io/tags/weekly-digest/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>funTools</title>
+        <link>https://aruCUMA.github.io/tags/funtools/</link>
+        <pubDate>Sun, 16 Apr 2023 20:09:40 +0800</pubDate>
+        
+        <guid>https://aruCUMA.github.io/tags/funtools/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>如何开始做我的事</title>
+        <link>https://aruCUMA.github.io/tags/%E5%A6%82%E4%BD%95%E5%BC%80%E5%A7%8B%E5%81%9A%E6%88%91%E7%9A%84%E4%BA%8B/</link>
+        <pubDate>Fri, 14 Apr 2023 20:58:45 +0800</pubDate>
+        
+        <guid>https://aruCUMA.github.io/tags/%E5%A6%82%E4%BD%95%E5%BC%80%E5%A7%8B%E5%81%9A%E6%88%91%E7%9A%84%E4%BA%8B/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>creator</title>
+        <link>https://aruCUMA.github.io/tags/creator/</link>
+        <pubDate>Tue, 04 Apr 2023 01:32:12 +0800</pubDate>
+        
+        <guid>https://aruCUMA.github.io/tags/creator/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>mindset</title>
+        <link>https://aruCUMA.github.io/tags/mindset/</link>
+        <pubDate>Sat, 01 Apr 2023 22:39:12 +0800</pubDate>
+        
+        <guid>https://aruCUMA.github.io/tags/mindset/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>blog</title>
+        <link>https://aruCUMA.github.io/tags/blog/</link>
+        <pubDate>Thu, 30 Mar 2023 21:44:29 +0800</pubDate>
+        
+        <guid>https://aruCUMA.github.io/tags/blog/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>personalFinance</title>
+        <link>https://aruCUMA.github.io/tags/personalfinance/</link>
+        <pubDate>Wed, 29 Mar 2023 21:44:29 +0800</pubDate>
+        
+        <guid>https://aruCUMA.github.io/tags/personalfinance/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

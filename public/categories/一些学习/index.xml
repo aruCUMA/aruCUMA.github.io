@@ -1,0 +1,1572 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>一些学习 on aruCUMA</title>
+        <link>https://aruCUMA.github.io/categories/%E4%B8%80%E4%BA%9B%E5%AD%A6%E4%B9%A0/</link>
+        <description>Recent content in 一些学习 on aruCUMA</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 27 Apr 2023 20:56:05 +0800</lastBuildDate><atom:link href="https://aruCUMA.github.io/categories/%E4%B8%80%E4%BA%9B%E5%AD%A6%E4%B9%A0/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GMAT 备考：VERBAL 笔记</title>
+        <link>https://aruCUMA.github.io/p/gmat-%E5%A4%87%E8%80%83verbal-%E7%AC%94%E8%AE%B0/</link>
+        <pubDate>Thu, 27 Apr 2023 20:56:05 +0800</pubDate>
+        
+        <guid>https://aruCUMA.github.io/p/gmat-%E5%A4%87%E8%80%83verbal-%E7%AC%94%E8%AE%B0/</guid>
+        <description>&lt;h2 id=&#34;考试介绍&#34;&gt;考试介绍&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;考试科目&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;题目数量&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;题目类型&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;考试时间&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;做题时间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Analytical Writing&lt;br/&gt;分析性写作&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1篇&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;论证分析写作&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;30min&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;/&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Integrated Reasoning&lt;br/&gt;综合推理&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;12题&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;图表解读&lt;br/&gt;二段式分析&lt;br/&gt;表格分析&lt;br/&gt;多源推理&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;30min&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2min30s/题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Quantitative&lt;br/&gt;定量推理&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;31题&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;数据充分性分析/DS&lt;br/&gt;问题求解/PS&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;62min&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2min/题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Verbal&lt;br/&gt;文本逻辑推理&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;36题&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;阅读理解Reading Comprehension&lt;br/&gt;批判性推理Critical Reasoning&lt;br/&gt;句子改错Sentence Correction&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;65min&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1min45s/题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;考试科目&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;题目数量&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;做题计划&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Problem Solving&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;262&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;20道每天, 14天，每天40min&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Data sufficiency&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;240&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;20道每天，12天，每天40min&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Critical Reasoning&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;166&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;12道每天，15天，每天21min&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Reading Comprehension&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;159&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;11道每天，15天，每天20min&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Sentence Correction&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;178&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;12道每天，15天，每天21min&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;critical-reasoning&#34;&gt;Critical Reasoning&lt;/h2&gt;
+&lt;h3 id=&#34;简介&#34;&gt;简介&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;P-Premise: 用来支持结论的成立，相对客观、具体&lt;/li&gt;
+&lt;li&gt;C-Conclusion: 被其他内容所支持，论述的终点，相对主观、抽象、可预期&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;做题步骤&#34;&gt;做题步骤&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;审题干： Key words + 对象（主动阅读文章）&lt;/li&gt;
+&lt;li&gt;读文章： reasoning line
+&lt;ul&gt;
+&lt;li&gt;P —— C&lt;/li&gt;
+&lt;li&gt;Plan —— Goal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;答案方向预测
+&lt;ul&gt;
+&lt;li&gt;&lt;font color=LightSeaGreen&gt;削弱&lt;/font&gt;：P -x- C&lt;/li&gt;
+&lt;li&gt;&lt;font color=LightSeaGreen&gt;假设&lt;/font&gt;：取非削弱：P -x- C&lt;/li&gt;
+&lt;li&gt;&lt;font color=LightSeaGreen&gt;评价&lt;/font&gt;：是否削弱&lt;/li&gt;
+&lt;li&gt;&lt;font color=LightSeaGreen&gt;加强&lt;/font&gt;：P —— C✅&lt;/li&gt;
+&lt;li&gt;解释：解释两件矛盾的事件发生&lt;/li&gt;
+&lt;li&gt;归纳：文章支持选项&lt;/li&gt;
+&lt;li&gt;填空：90% 解释&lt;/li&gt;
+&lt;li&gt;句子作用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;选项筛选
+&lt;ul&gt;
+&lt;li&gt;初筛：答案方向&lt;/li&gt;
+&lt;li&gt;精筛：回看文章&lt;font color=LightSeaGreen&gt;细节&lt;/font&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;font color=LightSeaGreen&gt;结论/目标限定&lt;/font&gt;文章讨论&lt;font color=LightSeaGreen&gt;范围&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;前提&lt;font color=LightSeaGreen&gt;已说细节/前提&lt;/font&gt;不能&lt;font color=LightSeaGreen&gt;重复/反驳/反问&lt;/font&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;做题原则
+&lt;ul&gt;
+&lt;li&gt;尽量减少生活常识的过多使用（选项对比原则）&lt;/li&gt;
+&lt;li&gt;尽量保证推理范围的一致&lt;/li&gt;
+&lt;li&gt;注意区分绝对概念和相对概念（但凡出现即错）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;文章内容常考点&#34;&gt;文章内容常考点&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;进出口
+&lt;ul&gt;
+&lt;li&gt;S &amp;lt; D 进口, price up&lt;/li&gt;
+&lt;li&gt;S &amp;gt; D 出口, price down&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;人才
+&lt;ul&gt;
+&lt;li&gt;S &amp;lt; D 工资 up: 人才短缺（找工作简单）&lt;/li&gt;
+&lt;li&gt;S &amp;gt; D 工资 down: 人才过剩（找工作难）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;利润，收入，成本
+&lt;ul&gt;
+&lt;li&gt;profit = revenue - cost(financial benefit)&lt;/li&gt;
+&lt;li&gt;revenue(dollar sales/sales revenue): 不考虑成本&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;供应链
+生产商(whole sale price) —— 分销商(retail price) —— 消费者&lt;/li&gt;
+&lt;li&gt;总量 = 均量 * 数量
+&lt;ul&gt;
+&lt;li&gt;总量：overall/as a whole/total&lt;/li&gt;
+&lt;li&gt;均量：per/per capital/average&lt;/li&gt;
+&lt;li&gt;数量：number/population&lt;/li&gt;
+&lt;li&gt;其他细节：
+&lt;ul&gt;
+&lt;li&gt;percentage ≠ number&lt;/li&gt;
+&lt;li&gt;文章没有对比，选项出现对比的可能性较低&lt;/li&gt;
+&lt;li&gt;文章有变化，选项一般也在描述变化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;做题方法&#34;&gt;做题方法&lt;/h3&gt;
+&lt;h4 id=&#34;削弱题&#34;&gt;削弱题&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Key words
+weaken, undermine, cast doubt, argue, counter, challenge, refute, call …… into question, drawback, flaw, criticism, reasoning error&lt;/li&gt;
+&lt;li&gt;Typical Questions
+Which of the following indicates a flaw in the reasoning above?
+Which of the following, if true, most seriously weakens the argument?&lt;/li&gt;
+&lt;li&gt;做题步骤
+&lt;ul&gt;
+&lt;li&gt;先审题干： key words（题目要求）；对象&lt;/li&gt;
+&lt;li&gt;expectation 主动阅读：P —— C&lt;/li&gt;
+&lt;li&gt;预测答案方向：P✅ —— C❌&lt;/li&gt;
+&lt;li&gt;答案筛选：
+&lt;ul&gt;
+&lt;li&gt;错误：反/无&lt;/li&gt;
+&lt;li&gt;正确&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;文章结构&lt;/th&gt;
+&lt;th&gt;说明&lt;/th&gt;
+&lt;th&gt;正确答案逻辑&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;conditional argument&lt;/td&gt;
+&lt;td&gt;condition —— expectation&lt;/td&gt;
+&lt;td&gt;结合前提 + 削弱结论&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;causal argument&lt;/td&gt;
+&lt;td&gt;phenomenon —— explanation&lt;/td&gt;
+&lt;td&gt;反例&lt;br/&gt;他因&lt;br/&gt;因果倒置&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;plan —— goal&lt;/td&gt;
+&lt;td&gt;plan —— goal&lt;/td&gt;
+&lt;td&gt;Goal 不可达&lt;br/&gt;Plan 有副作用&lt;br/&gt;Plan 不可行&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;假设题&#34;&gt;假设题&lt;/h4&gt;
+&lt;p&gt;文章结论成立的必要条件：&lt;font color=LightSeaGreen&gt;必要性 + 条件&lt;/font&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Key words
+assume, assumption, presuppose, additional premise, not true unless, depend on, rely on, require&lt;/li&gt;
+&lt;li&gt;Typical Questions
+Which of the following is an assumption on which this argument depends?
+The conclusion reached by the personnel officer depends on which of the following assumption?&lt;/li&gt;
+&lt;li&gt;做题步骤
+Not + Weaken (正确选项 80% 为否定句)
+&lt;ul&gt;
+&lt;li&gt;审题干：Keyword + 对象&lt;/li&gt;
+&lt;li&gt;读文章：主动阅读
+&lt;ul&gt;
+&lt;li&gt;P —— C
+&lt;ul&gt;
+&lt;li&gt;conditional: condition —— expectation&lt;/li&gt;
+&lt;li&gt;casual: phenomenon —— explanation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Plan —— Goal&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;预测答案方向：取非选项，削弱结论，即为正确选项&lt;/li&gt;
+&lt;li&gt;选项筛选
+&lt;ul&gt;
+&lt;li&gt;a. 先看否定选项（主句含有否定词：nothing, few）：去掉 NOT —— 削弱&lt;/li&gt;
+&lt;li&gt;b. 再看肯定选项：+NOT —— 削弱
+&lt;ul&gt;
+&lt;li&gt;not weaken：必要但不充分&lt;/li&gt;
+&lt;li&gt;typical answer set a bridge between premise &amp;amp; conclusion(文章较短 3 行 + 原题描述有漏洞)：充分且必要&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;评价题&#34;&gt;评价题&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Key words
+evaluate, determine, appraisal, assess&lt;/li&gt;
+&lt;li&gt;Typical Questions
+Which of the following would be most useful to evaluate the argument?&lt;/li&gt;
+&lt;li&gt;做题步骤
+&lt;ul&gt;
+&lt;li&gt;定义：正确答案是决定结论成立与否的关键性问题&lt;/li&gt;
+&lt;li&gt;定位
+&lt;ul&gt;
+&lt;li&gt;Whether + 削弱 90%&lt;/li&gt;
+&lt;li&gt;Whether + 加强 10%&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;验证是否存在相反的影响
+&lt;ul&gt;
+&lt;li&gt;是, (-)/(+)&lt;/li&gt;
+&lt;li&gt;否, (+)/(-)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;文章结构&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;说明&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;正确答案逻辑&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;conditional argument&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;condition &amp;ndash;&amp;gt; expectation&lt;br/&gt;因 &amp;ndash; &amp;gt;果&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;反问 weaken&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;causal argument&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;phenomenon &amp;ndash;&amp;gt; explanation&lt;br/&gt;果 &amp;ndash; &amp;gt;因&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1. 对照组实验是否一致：&lt;br/&gt; 1) 1个变量-实验组对照组；&lt;br/&gt; 2) 2个变量-控制其中一个变量(e.g. E1)&lt;br/&gt;  a. 结果无影响(E1) &lt;br/&gt;  b. 结果有影响(E2) &lt;br/&gt;2. 是否有他因&lt;br/&gt;3. 是否因果倒置&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;plan &amp;ndash;&amp;gt; goal&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;plan &amp;ndash;&amp;gt; goal&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Goal 是否可达&lt;br/&gt;Plan 是否有副作用&lt;br/&gt;Plan 是否可行&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;加强题&#34;&gt;加强题&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Key words
+&lt;font color=LightSeaGreen&gt;support&lt;/font&gt;, strengthen, justify
+&lt;font color=Chocolate&gt;选项 support 文章为加强；文章 support 选项为归纳&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;Typical Questions
+Which of the following, if true, best supports the claim above?
+Which of the following, if true, would most strengthen the conclusion drawn in the second sentence?&lt;/li&gt;
+&lt;li&gt;做题步骤&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;文章结构&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;正确答案逻辑&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Argument&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;A. citing examples摆事实 &lt;br/&gt; 1) positive 正例，榜样&lt;br/&gt;  a. 不同个体重现相同逻辑&lt;br/&gt;  b.有因有果&lt;br/&gt; 2)negative 反面教材&lt;br/&gt;  a. 无因无果&lt;br/&gt;  b. 双重否定表强调 &lt;br/&gt;B. Providing additional information to explain讲道理&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;Plan——Goal&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1)目标可行&lt;br/&gt;2)无副作用&lt;br/&gt;3)手段可行&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;font color=Chocolate&gt;provided 出现在句首 = if&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;&lt;font color=Chocolate&gt;Plan——Goal：方案对比(most, only)的选项通常不予考虑，文章结论存在对比，选项才能对比&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;解释题&#34;&gt;解释题&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Key words
+explain, reason(找原因), account for(解释/占比), provide a  rationale for(提供理由), reconcile the discrepancy(解决悖论), paradox, justify(使合理), justification(理由，原因)&lt;/li&gt;
+&lt;li&gt;Typical Questions
+Which of the following, if true, best explains the reason for the apparent discrepancy described above?
+Which of the following, if true, would help resolve the apparent paradox presented above?&lt;/li&gt;
+&lt;li&gt;做题步骤
+&lt;ul&gt;
+&lt;li&gt;explain a phenomenon&lt;/li&gt;
+&lt;li&gt;explain a surprising result: A …… however/yet/but B ……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;归纳题&#34;&gt;归纳题&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Key words
+support, conclude/conclusion, infer, imply(推断), must be true
+&lt;font color=Chocolate&gt;文章 support 选项为归纳&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;Typical Questions
+Which of the following must be true on the basis of the statements above?
+Which of the following can be correctly inferred from the statements above?
+Which of the following conclusions can properly be drawn from the information above?&lt;/li&gt;
+&lt;li&gt;做题步骤
+&lt;ul&gt;
+&lt;li&gt;文字信息归纳：
+&lt;ul&gt;
+&lt;li&gt;正确 + 全面 &amp;gt; 不全面 + 可推正确&lt;/li&gt;
+&lt;li&gt;&lt;font color=Chocolate&gt;选项尽可能包括更多的文章信息&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;数字信息归纳
+&lt;ul&gt;
+&lt;li&gt;大小关系&lt;/li&gt;
+&lt;li&gt;公式关系：A+B = C&lt;/li&gt;
+&lt;li&gt;百分比（percentage) = 分子/分母&lt;/li&gt;
+&lt;li&gt;对比关系
+&lt;ul&gt;
+&lt;li&gt;时间变化：维度变化时不同物体做对比&lt;/li&gt;
+&lt;li&gt;表格变化&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;句子作用题&#34;&gt;句子作用题&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;如何识别句子作用题
+bold face，有黑体加粗——问 role
+文章都是复杂的 argument, 而不是 fact set&lt;/li&gt;
+&lt;li&gt;做题步骤
+&lt;ul&gt;
+&lt;li&gt;先看黑体字，找到关联词（结论引导词、因果关联词、转折关联词）&lt;/li&gt;
+&lt;li&gt;根据关联词，初步判断
+&lt;ul&gt;
+&lt;li&gt;黑体字与黑字体的关系&lt;/li&gt;
+&lt;li&gt;黑体字与结论的关系&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;阅读文章内容（高效：思考功能）
+&lt;ul&gt;
+&lt;li&gt;着重阅读黑体字及前后句，在能够确定功能的前提下可跳读内容&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;选项筛选：排错法：排除硬伤错误选项
+&lt;ul&gt;
+&lt;li&gt;是什么：n. 判断主客观，不需要翻译
+&lt;ul&gt;
+&lt;li&gt;客观词：fact, truth, discovery, finding, statistics, observation&lt;/li&gt;
+&lt;li&gt;主观词：大多数抽象名词（因为是由人进行抽象，所以也算主观词），claim, contention, position, judgment, prediction&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;干了什么（主要考点）：通过句间关系描述句子功能
+&lt;ul&gt;
+&lt;li&gt;黑与黑&lt;/li&gt;
+&lt;li&gt;黑与结论
+&lt;ul&gt;
+&lt;li&gt;conclusion: 描述关系，存在推理过程，被支持&lt;/li&gt;
+&lt;li&gt;main conclusion: 有且只有一个，文章的重点
+&lt;ul&gt;
+&lt;li&gt;绝对不可能 support 其他内容&lt;/li&gt;
+&lt;li&gt;绝对不可能被反驳&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;reading-comprehension&#34;&gt;Reading Comprehension&lt;/h2&gt;
+&lt;h3 id=&#34;简介-1&#34;&gt;简介&lt;/h3&gt;
+&lt;p&gt;4篇文章：2短2长或3短1长&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;文章类型&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;字数&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;题目数量&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;题库题量&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;短文章&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;220字左右&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4题&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;8-12题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;长文章&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;350字左右&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3题&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;6-8题&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;阅读时间分配&#34;&gt;阅读时间分配&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;文章类型&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;总占用时间&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;读文章时间&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;做题时间&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;短文章&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;6-7分钟/篇&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3.5-4分钟/篇&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;2-2.5分钟/篇&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;长文章&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;8-9分钟/篇&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;5分钟&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;3-4分钟/篇&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;阅读方法&#34;&gt;阅读方法&lt;/h3&gt;
+&lt;p&gt;S1: 单句阅读：单句功能
+S2: 句间关系：顺转让比
+S3: 文章层次：主线+结构&lt;/p&gt;
+&lt;h4 id=&#34;单句阅读&#34;&gt;单句阅读&lt;/h4&gt;
+&lt;h5 id=&#34;单句阅读原则语言能力方向&#34;&gt;单句阅读原则：语言能力：方向&lt;/h5&gt;
+&lt;p&gt;分析句子结构，从而正确理解含义（强调动词/形容词，弱化名词）&lt;/p&gt;
+&lt;h5 id=&#34;单句阅读原则逻辑能力单句功能&#34;&gt;单句阅读原则：逻辑能力：单句功能&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;s1: 观点 or 事实&lt;/li&gt;
+&lt;li&gt;s2: 观点（视角）：引用观点 or 作者观点
+&lt;font color=LightSeaGreen&gt;对新观点敏感，养成出现新观点就判断视角的习惯&lt;/font&gt;
+&lt;ul&gt;
+&lt;li&gt;引用观点：
+&lt;ul&gt;
+&lt;li&gt;sb. + 表观点的动词：theorize, assert, argue, claim, contend, make a point, hypothesize, attribute to, 叙实类动词：know, reveal, find, discover&lt;/li&gt;
+&lt;li&gt;被动表达：is has been said that; it is believed; A is attributed to B&lt;/li&gt;
+&lt;li&gt;名词化表达：a view/belief/consensus that&lt;/li&gt;
+&lt;li&gt;动词 + as：regard/view/see/describe/characterize A as B&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;作者观点：
+&lt;ul&gt;
+&lt;li&gt;转折词 + 事实类信息&lt;/li&gt;
+&lt;li&gt;句子内部有情感色彩词：useful, successful, proper etc.&lt;/li&gt;
+&lt;li&gt;出现新观点，新观点无特征（不满足引用观点的标志&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;句间关系-句子功能题&#34;&gt;句间关系-句子功能题&lt;/h4&gt;
+&lt;p&gt;解题步骤：定位——判断句间关系——预期答案方向/pattern——找对应选项&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;展开
+&lt;ul&gt;
+&lt;li&gt;为前面的观点提供支持/服务&lt;/li&gt;
+&lt;li&gt;Key pattern: support the previous view&lt;/li&gt;
+&lt;li&gt;Tip: 尝试描述例子的选项常为错误选项&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;推论
+&lt;ul&gt;
+&lt;li&gt;基于前文信息得到结论&lt;/li&gt;
+&lt;li&gt;Key pattern: draw a conclusion/&lt;font color=LightSeaGreen&gt;implication/significance&lt;/font&gt; of the previous phenomenon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;原因
+&lt;ul&gt;
+&lt;li&gt;为前文找解释&lt;/li&gt;
+&lt;li&gt;Key pattern: point out a reason/explanation/cause of the previous phenomenon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;结果
+&lt;ul&gt;
+&lt;li&gt;前文所带来的后果/影响&lt;/li&gt;
+&lt;li&gt;Key pattern: point out the result/impact/effect/consequence/ramification of the previous phenomenon&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;引出
+&lt;ul&gt;
+&lt;li&gt;介绍/引出文章 topic&lt;/li&gt;
+&lt;li&gt;Key pattern: introduce the topic/information that the passage will further discussed in the following passage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;转折&#34;&gt;转折&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;观点转折
+&lt;ul&gt;
+&lt;li&gt;讨论对象不变，视角发生变化&lt;/li&gt;
+&lt;li&gt;Key pattern: challenge/counter/undermine/weaken/cast doubt on/run contrary to/&lt;font color=LightSeaGreen&gt;qualify&lt;/font&gt; the previous view&lt;/li&gt;
+&lt;li&gt;Tip: 要明确原文中的争论点（转折前后挑反义信息验证转折逻辑）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;方向转折
+&lt;ul&gt;
+&lt;li&gt;没有否定之前，只是讨论重心的转变&lt;/li&gt;
+&lt;li&gt;Key pattern: turn the topic; point out the information/topic that will be further explored in the following passage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;让步&#34;&gt;让步&lt;/h5&gt;
+&lt;p&gt;句内标志词： although, though, even though/as/if, despite, in spite of, while, for all
+句间标志词：It is true that; Granted; True; Of course; Certainly; Surely; Admittedly; sb. admit/accept/concede/acknowledge&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;妥协
+&lt;ul&gt;
+&lt;li&gt;承认对立面的观点其实也是有一些合理的地方&lt;/li&gt;
+&lt;li&gt;Key pattern: concede the validity of the opposing viewpoint&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;构成怪事
+&lt;ul&gt;
+&lt;li&gt;违背预期&lt;/li&gt;
+&lt;li&gt;Key pattern: explain why the following fact is surprising&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;比较&#34;&gt;比较&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;类比
+&lt;ul&gt;
+&lt;li&gt;A ≈ B&lt;/li&gt;
+&lt;li&gt;类比标志词：be similar to/be analogous to/as though/as if/no difference&lt;/li&gt;
+&lt;li&gt;Key pattern: illustrate A&lt;/li&gt;
+&lt;li&gt;常见干扰选项：indicate that A shares similarities with B&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;对比
+&lt;ul&gt;
+&lt;li&gt;对比标志词：whereas, rather than, compared to&lt;/li&gt;
+&lt;li&gt;Key pattern
+&lt;ul&gt;
+&lt;li&gt;make distinctions between A and B&lt;/li&gt;
+&lt;li&gt;emphasize the uniqueness of A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Tip: 判断 A 与 B 谁是主体/主要讨论对象&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;信息定位-细节题&#34;&gt;信息定位-细节题&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;解题步骤
+&lt;ul&gt;
+&lt;li&gt;题目特点：题干无标志，针对原文细节进行提问&lt;/li&gt;
+&lt;li&gt;考察本质：语言+逻辑&lt;/li&gt;
+&lt;li&gt;解题步骤
+&lt;ul&gt;
+&lt;li&gt;s1: 分析题干（找 key word）&lt;/li&gt;
+&lt;li&gt;s2: 原文定位/明确答案方向&lt;/li&gt;
+&lt;li&gt;s3: 选项辨析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;题干分析
+&lt;ul&gt;
+&lt;li&gt;明确讨论/提问对象：低频次（可定位）/高频词（不可定位）&lt;/li&gt;
+&lt;li&gt;逻辑关系提示词
+&lt;ul&gt;
+&lt;li&gt;因果：explain, cause, effect/impact&lt;/li&gt;
+&lt;li&gt;观点转折：A disagree with B regard ……/A and B disagree with&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;视角提示（多观点）
+&lt;ul&gt;
+&lt;li&gt;引用 （sb.)&lt;/li&gt;
+&lt;li&gt;作者（author, passage states/suggests)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;选项辨析
+&lt;ul&gt;
+&lt;li&gt;混：信息杂糅
+&lt;ul&gt;
+&lt;li&gt;有关信息 + 无关信息&lt;/li&gt;
+&lt;li&gt;有关概念 + 无关逻辑（高频误选项）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;偏：名词范围
+&lt;ul&gt;
+&lt;li&gt;以偏概全——白马非马&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;反：对象间关系
+&lt;ul&gt;
+&lt;li&gt;A+B，选项A-B&lt;/li&gt;
+&lt;li&gt;A to B，选项 B to A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;无：不在定位范围&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;主线抓取-主旨题&#34;&gt;主线抓取-主旨题&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;主线抓取原则
+根据句间关系，判断句子功能的重要性，从而决定是否影响文章主线
+&lt;ul&gt;
+&lt;li&gt;单句功能：观点 or 事实 —— 观点影响主线（注重新观点出现）&lt;/li&gt;
+&lt;li&gt;句间关系：
+&lt;ul&gt;
+&lt;li&gt;顺承：推论，观点性的原因结果影响主线&lt;/li&gt;
+&lt;li&gt;转折
+&lt;ul&gt;
+&lt;li&gt;观点转折：新老观点都是主线&lt;/li&gt;
+&lt;li&gt;方向转折：转折后是主线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;让步：不影响主线&lt;/li&gt;
+&lt;li&gt;比较：两个主要讨论对象的对比影响主线&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;选项辨析
+&lt;ul&gt;
+&lt;li&gt;动词
+必须是作者发出
+&lt;ul&gt;
+&lt;li&gt;中性词：present, discuss, summarize, consider-弱词
+&lt;ul&gt;
+&lt;li&gt;适合条件：无作者/有作者&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;有情感色彩的词-强词
+&lt;ul&gt;
+&lt;li&gt;propose, argue: 作者自己提观点&lt;/li&gt;
+&lt;li&gt;argue for/argue in favor of(作者支持别人) = support, confirm&lt;/li&gt;
+&lt;li&gt;argue against(作者反对别人) = counter, undermine, challenge, qualify = limit&lt;/li&gt;
+&lt;li&gt;evaluate(支持 or 反对) = assess, analyze&lt;/li&gt;
+&lt;li&gt;defend: 作者支持一个被攻击过的观点&lt;/li&gt;
+&lt;li&gt;reconcile: debate: 作者认为争论双方都有道理，给了折中&lt;/li&gt;
+&lt;li&gt;resolve: problem: 作者给出 definitive solution&lt;/li&gt;
+&lt;li&gt;synthesize: combine  different component as whole&lt;/li&gt;
+&lt;li&gt;revise/correct/remedy: 作者攻击引用观点，然后提出新观点&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;compare/contrast：
+&lt;ul&gt;
+&lt;li&gt;文章需满足条件：作者无态度 + 双主体&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;抽象名词
+&lt;ul&gt;
+&lt;li&gt;观点类：view, assertion, argument, contention, theory, hypothesis, interpretation, position, point, perspective, understanding&lt;/li&gt;
+&lt;li&gt;证据类：study, evidence, research, basis, ground&lt;/li&gt;
+&lt;li&gt;事实/现象：event, discovery, phenomenon, fact&lt;/li&gt;
+&lt;li&gt;解释/原因：reason, cause, explanation&lt;/li&gt;
+&lt;li&gt;结果：result, consequence, ramification, impact, effect&lt;/li&gt;
+&lt;li&gt;其他：solution, methodology, ideology&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;具体名词
+&lt;ul&gt;
+&lt;li&gt;必须是文章主要讨论对象，不能是细节&lt;/li&gt;
+&lt;li&gt;Tip：注意名词范围&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;加强削弱题&#34;&gt;加强削弱题&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;Type1
+Which of the following, if true, would most strengthen/weaken the argument in the passage?
+&lt;ul&gt;
+&lt;li&gt;解题步骤
+&lt;ul&gt;
+&lt;li&gt;定位 argument&lt;/li&gt;
+&lt;li&gt;找到与 argument 相关的 evidence&lt;/li&gt;
+&lt;li&gt;直接取反 evidence&lt;/li&gt;
+&lt;li&gt;Tip: 如果不存在 evidence， 可直接取反 argument（结论）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Type2
+If sth. in the passage were false, which of the following would likely to happen?
+&lt;ul&gt;
+&lt;li&gt;解题步骤
+&lt;ul&gt;
+&lt;li&gt;定位原文中的 sth. 并找到它的 result&lt;/li&gt;
+&lt;li&gt;题干：sth. x&lt;/li&gt;
+&lt;li&gt;选项：x result —— 取反原文中本来有的结果&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Type3
+Which of the following, if true/false, would most weaken sth. in the passage
+&lt;ul&gt;
+&lt;li&gt;解题步骤
+&lt;ul&gt;
+&lt;li&gt;定位 sth.(机制/过程：A——B——C——D)&lt;/li&gt;
+&lt;li&gt;任意削弱其中一个环节即可：xA/xB/xC
+前提：整体机制（强调动词及关系，弱化名词）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;类比题&#34;&gt;类比题&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Type: Which of the following is most similar to the situation in the passage?&lt;/li&gt;
+&lt;li&gt;选项特点：选项讨论对象/背景与原文无关&lt;/li&gt;
+&lt;li&gt;解题步骤
+&lt;ul&gt;
+&lt;li&gt;明确类比对象&lt;/li&gt;
+&lt;li&gt;梳理原文概念间的关系&lt;/li&gt;
+&lt;li&gt;选项辨析 - 与原文关系保持一致&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;态度题&#34;&gt;态度题&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;题目介绍
+&lt;ul&gt;
+&lt;li&gt;题目特点
+&lt;ul&gt;
+&lt;li&gt;题干：刻画 author 观点&lt;/li&gt;
+&lt;li&gt;选项：短；有态度词&lt;/li&gt;
+&lt;li&gt;解题关键：读文章时需识别作者态度，辨析选项态度类型&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;态度类型辨析
+&lt;ul&gt;
+&lt;li&gt;负态度：unjustified, unnecessary, skeptical, flawed, ambiguous, arbitrary(= random, despotic)&lt;/li&gt;
+&lt;li&gt;正态度：warranted, pragmatic(=practical)&lt;/li&gt;
+&lt;li&gt;混合态度-偏正：well founded though incomplete; partially correct; useful though limited; qualified approval&lt;/li&gt;
+&lt;li&gt;混合态度-偏负：plausible but poorly substantiated; useful but limited&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;信息提取&#34;&gt;信息提取&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;信息提取原则：active reading&lt;/li&gt;
+&lt;li&gt;预判句子方向（判断方式：逻辑连接词，新人物等）&lt;/li&gt;
+&lt;li&gt;挑信息验证，使句间关系合理&lt;/li&gt;
+&lt;li&gt;明确句子功能&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sentence-correction&#34;&gt;Sentence Correction&lt;/h2&gt;
+&lt;h3 id=&#34;做题步骤-1&#34;&gt;做题步骤&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;看文本&lt;/li&gt;
+&lt;li&gt;判断原句是否正确&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;题型分类&#34;&gt;题型分类&lt;/h3&gt;
+&lt;h4 id=&#34;句子结构&#34;&gt;句子结构&lt;/h4&gt;
+&lt;h5 id=&#34;简单句&#34;&gt;简单句&lt;/h5&gt;
+&lt;p&gt;读选项需要先找到句子的主谓结构
+doing/done/to do 不能单独用作谓语动词&lt;/p&gt;
+&lt;h5 id=&#34;并列句&#34;&gt;并列句&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;并列连词：Fanboys&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;连词&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;作用&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;for&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;因为&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;and&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;联结各种形式的平行结构&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;nor&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;也不&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;but&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;联结各种形式的平行结构&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;or&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;联结各种形式的平行结构&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;yet&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;+句子&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;so&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;+句子&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;并列句正确形式
+&lt;ul&gt;
+&lt;li&gt;SVO&lt;font color=LightSeaGreen&gt;;&lt;/font&gt; SVO&lt;/li&gt;
+&lt;li&gt;SVO&lt;font color=LightSeaGreen&gt;, conj.&lt;/font&gt; SVO&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;并列句错误形式
+&lt;ul&gt;
+&lt;li&gt;SVO&lt;font color=LightSeaGreen&gt;,&lt;/font&gt; SVO&lt;/li&gt;
+&lt;li&gt;SVO&lt;font color=LightSeaGreen&gt;, adv.&lt;/font&gt; SVO
+&lt;ul&gt;
+&lt;li&gt;adv.: however, therefore, thereby, thus(因此), rather(而是), also, then &lt;font color=LightSeaGreen&gt;副词不改变句子结构，只起到修饰作用&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;主从复合句&#34;&gt;主从复合句&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;名词性从句：充当 n. 使用&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;主语从句：&lt;font color=LightSeaGreen&gt;That he got 800 in GMAT&lt;/font&gt; shocked me.&lt;/li&gt;
+&lt;li&gt;宾语从句：He told me &lt;font color=LightSeaGreen&gt;that he got 800 in GMAT&lt;/font&gt;.&lt;/li&gt;
+&lt;li&gt;表语从句：The shocking new is &lt;font color=LightSeaGreen&gt;that he got 800 in GMAT&lt;/font&gt;.&lt;/li&gt;
+&lt;li&gt;同位语从句：The news &lt;font color=LightSeaGreen&gt;that he got 800 in GMAT&lt;/font&gt; shocked me.&lt;/li&gt;
+&lt;li&gt;同位语从句和定语从句的区别：&lt;font color=LightSeaGreen&gt;that 是否在从句中充当成分&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;三类引导词&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;引导词&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;that&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;whether&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;特殊引导词: what, when, where, who, why, how&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;定语从句：修饰名词，相当于形容词&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;定语从句的引导语在从句中必须充当成分&lt;/li&gt;
+&lt;li&gt;定语从句的引导词在从句中作&lt;font color=LightSeaGreen&gt;宾语&lt;/font&gt;时可以省略
+&lt;font color=Chocolate&gt;That is the very book &lt;font color=LightSeaGreen&gt;that has been translated into 100 languages.&lt;/font&gt;(作主语)
+That is the very book &lt;font color=LightSeaGreen&gt;(that) he translated into French from Italian.&lt;/font&gt;(作宾语)&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;状语从句：修饰动词或整个句子，相当于副词
+状语从句引导词体现主句和从句的逻辑关系&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;题目常见错误类型&#34;&gt;题目常见错误类型&lt;/h5&gt;
+&lt;p&gt;缺少谓语动词
+两动词之间缺少连词
+两分句之间缺少连词
+缺少主句
+主语重复&lt;/p&gt;
+&lt;h5 id=&#34;做题-note&#34;&gt;做题 note&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;名词 + V-ed 的判断
+&lt;ul&gt;
+&lt;li&gt;主动 V-ed 是谓语动词&lt;/li&gt;
+&lt;li&gt;被动
+&lt;ul&gt;
+&lt;li&gt;be done 被动语态&lt;/li&gt;
+&lt;li&gt;done 过去分词修饰名词&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;介词 + n. 是修饰成分
+介词 + n. = 介词短语
+表达完整的含义，是修饰成分&lt;/li&gt;
+&lt;li&gt;-……-中间是插入语，修饰成分&lt;/li&gt;
+&lt;li&gt;前后主语一致可以省略主语&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;主谓一致&#34;&gt;主谓一致&lt;/h4&gt;
+&lt;h5 id=&#34;主语和谓语逻辑上要一致&#34;&gt;主语和谓语逻辑上要一致&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;❌ &lt;font color=Chocolate&gt;&lt;font color=LightSeaGreen&gt;The development&lt;/font&gt; of a hydrogen car based on expected performance parameters &lt;font color=LightSeaGreen&gt;will be able to travel&lt;/font&gt; hundreds of miles without refueling.&lt;/li&gt;
+&lt;li&gt;✅ Once developed, &lt;font color=LightSeaGreen&gt;a hydrogen car&lt;/font&gt; based on expected performance parameters &lt;font color=LightSeaGreen&gt;will be able to travel&lt;/font&gt; hundreds of miles without refueling.&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;准确找到句子主语与谓语看清修饰语可抛弃部分&#34;&gt;准确找到句子主语与谓语：看清修饰语（可抛弃部分）&lt;/h5&gt;
+&lt;p&gt;（修饰）S（修饰）V&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;S + (prep. + n.) + V&lt;/li&gt;
+&lt;li&gt;S + 定语从句 + V&lt;/li&gt;
+&lt;li&gt;S, (插入语), + V&lt;/li&gt;
+&lt;li&gt;S (doing/done/to do) + V e.g. A boy (who is) called 小明.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;and-与附加短语&#34;&gt;And 与附加短语&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;A and B 表示符合含义，谓语动词用复数形式
+&lt;font color=Chocolate&gt;Determination, persistence and patience &lt;font color=LightSeaGreen&gt;are&lt;/font&gt; key factors to success.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;附加短语 Additive phrases：本质是修饰成分，谓语动词单复数由&lt;font color=LightSeaGreen&gt;主语&lt;/font&gt;决定，与附加短语无关
+together with, in addition to, accompanied by, along with, as well as, including&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;就近原则&#34;&gt;就近原则&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;either …… or ……/neither …… nor ……/or&lt;/li&gt;
+&lt;li&gt;&lt;font color=Chocolate&gt;Either Hugh or &lt;font color=LightSeaGreen&gt;his friends are&lt;/font&gt; going to the beach.
+Either his friends or &lt;font color=LightSeaGreen&gt;Hugh himself is&lt;/font&gt; going to the beach&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;集合名词谓语动词用单数&#34;&gt;集合名词：谓语动词用单数&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;people: agency, army, audience, class, committee, crowd, orchestra(管弦乐队), team&lt;/li&gt;
+&lt;li&gt;items: baggage, citrus(柑橘), equipment, fleet, fruit, furniture&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;every-与-each&#34;&gt;every 与 each&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;font color=LightSeaGreen&gt;Every wolf has&lt;/font&gt; slender legs.
+&lt;font color=LightSeaGreen&gt;Every two wolves share&lt;/font&gt; a room.&lt;/li&gt;
+&lt;li&gt;&lt;font color=LightSeaGreen&gt;Each wolf has&lt;/font&gt; slender legs.
+&lt;font color=LightSeaGreen&gt;Each of these wolves has&lt;/font&gt; slender legs.&lt;/li&gt;
+&lt;li&gt;They &lt;font color=LightSeaGreen&gt;each&lt;/font&gt; have slender legs. each 是修饰成分， They have 主谓一致&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;量词&#34;&gt;量词&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;量词当主语时，谓语动词的单复数由量词决定
+&lt;font color=Chocolate&gt;&lt;font color=LightSeaGreen&gt;A line&lt;/font&gt; of trees &lt;font color=LightSeaGreen&gt;stands&lt;/font&gt; alongside the trill.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;表示数量的词当主语时，谓语动词的单复数由核心名词决定
+&lt;ul&gt;
+&lt;li&gt;some, any, none, all, more, most, majority, minority, plurality 后面可接可数名词或不可数名词，这些词不代表具体的含义，所以真正的主语是其所修饰的名词&lt;/li&gt;
+&lt;li&gt;&lt;font color=Chocolate&gt;The majority of the &lt;font color=LightSeaGreen&gt;students&lt;/font&gt; in this class &lt;font color=LightSeaGreen&gt;are&lt;/font&gt; hard workers.
+Some of the &lt;font color=LightSeaGreen&gt;money was&lt;/font&gt; stolen from my wallet.
+Some of the &lt;font color=LightSeaGreen&gt;documents were&lt;/font&gt; stolen from the bank.&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;主语短语或主语从句&#34;&gt;主语短语或主语从句&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;谓语动词用单数&lt;/li&gt;
+&lt;li&gt;&lt;font color=Chocolate&gt;&lt;font color=LightSeaGreen&gt;Reading on the subway is&lt;/font&gt; a common.
+Phenomenon in large cities
+&lt;font color=LightSeaGreen&gt;Whatever you do is&lt;/font&gt; fine with me&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;倒装句&#34;&gt;倒装句&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;部分倒装：特殊副词位于句首时，助动词提前
+only, so, no, not, seldom, rarely, not only
+&lt;font color=Chocolate&gt;Only in this way can I get into Harvard.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;完全倒装：主谓颠倒顺序：（修饰）谓（修饰）主
+&lt;font color=Chocolate&gt;Just around the corner are a bakery and a florist.&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;做题-note-1&#34;&gt;做题 note&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;date
+&lt;ul&gt;
+&lt;li&gt;人 date sth. at + years old = &amp;ldquo;鉴定年代&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;sth. date to/date back/date back to/date from + 过去时间 = &amp;ldquo;源自&amp;rdquo;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;平行结构&#34;&gt;平行结构&lt;/h4&gt;
+&lt;h5 id=&#34;平行的含义&#34;&gt;平行的含义&lt;/h5&gt;
+&lt;p&gt;平行的部分必须含义相当，结构相似
+表象：词性相同；本质：语法功能相同（难题仅凭词性难以判断）&lt;/p&gt;
+&lt;h5 id=&#34;平行结构标志词及平行成分&#34;&gt;平行结构标志词及平行成分&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;open markers
+&lt;ul&gt;
+&lt;li&gt;and, or, but, rather than, as well as&lt;/li&gt;
+&lt;li&gt;判断：寻找平行项
+&lt;ul&gt;
+&lt;li&gt;句意&lt;/li&gt;
+&lt;li&gt;逗号
+- 词的平行
+- 2 个平行：不用, A and B
+- 3 个平行：A, B, and C
+- 并列句： A, and B
+- 从句/分词平行：, 可有可无&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;省略
+&lt;ul&gt;
+&lt;li&gt;平行结构中的 to do/can do/would do/will do/have done （情态动词/助动词）可以省略&lt;/li&gt;
+&lt;li&gt;从第二项开始形式要一致
+&lt;ul&gt;
+&lt;li&gt;&lt;font color=Chocolate&gt;to do A and (to) do B&lt;/li&gt;
+&lt;li&gt;to do A, (to) do B, and (to) do C&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;副词：带有逻辑含义的平行
+&lt;ul&gt;
+&lt;li&gt;…… and then ……&lt;/li&gt;
+&lt;li&gt;…… and thus ……&lt;/li&gt;
+&lt;li&gt;…… and therefore ……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;closed markers：严格平行，平行的2项形式完全一致
+&lt;ul&gt;
+&lt;li&gt;both …… and ……&lt;/li&gt;
+&lt;li&gt;either …… or ……&lt;/li&gt;
+&lt;li&gt;not …… but ……&lt;/li&gt;
+&lt;li&gt;neither …… nor ……&lt;/li&gt;
+&lt;li&gt;not only …… but also ……
+&lt;ul&gt;
+&lt;li&gt;not only/just …… but(also) ……&lt;/li&gt;
+&lt;li&gt;not only …… but …… as well&lt;/li&gt;
+&lt;li&gt;❌ not …… but also ……&lt;/li&gt;
+&lt;li&gt;❌  …… but also ……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;复杂的平行&#34;&gt;复杂的平行&lt;/h5&gt;
+&lt;p&gt;A, B and C, and D&lt;/p&gt;
+&lt;h5 id=&#34;做题-note-2&#34;&gt;做题 note&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;定语从句不可跳过动词修饰主语&lt;/li&gt;
+&lt;li&gt;then adv. 结构上不改变句子结构，只起到修饰作用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;比较结构&#34;&gt;比较结构&lt;/h4&gt;
+&lt;h5 id=&#34;比较的含义&#34;&gt;比较的含义&lt;/h5&gt;
+&lt;p&gt;比较的双方含义对等，结构相同，要有可比性&lt;/p&gt;
+&lt;h5 id=&#34;比较标志词&#34;&gt;比较标志词&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;like/unlike：接名词或名词短语，与句子主语相比较
+&lt;ul&gt;
+&lt;li&gt;like A, B do C. = B, like A, do C&lt;/li&gt;
+&lt;li&gt;Unlike A, B do C&lt;/li&gt;
+&lt;li&gt;In contrast to A, B do C&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;as/whereas：后接句子，主句与从句相同的成分相比较
+&lt;ul&gt;
+&lt;li&gt;as A do, B do. = Just as A do, (so) B do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;短语
+&lt;ul&gt;
+&lt;li&gt;more …… than ……&lt;/li&gt;
+&lt;li&gt;as …… as ……&lt;/li&gt;
+&lt;li&gt;the same …… as ……&lt;/li&gt;
+&lt;li&gt;not as …… as …… /not so …… as ……&lt;/li&gt;
+&lt;li&gt;compared with&lt;/li&gt;
+&lt;li&gt;as compared to&lt;/li&gt;
+&lt;li&gt;comparable to&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;比较结构中的倍数表达&#34;&gt;比较结构中的倍数表达&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;The room is &lt;font color=LightSeaGreen&gt;twice bigger than&lt;/font&gt; that one.&lt;/li&gt;
+&lt;li&gt;This room is &lt;font color=LightSeaGreen&gt;twice as big as&lt;/font&gt; that one.&lt;/li&gt;
+&lt;li&gt;The area of circle A is &lt;font color=LightSeaGreen&gt;twice the area&lt;/font&gt; of circle B./ …… &lt;font color=LightSeaGreen&gt;twice that&lt;/font&gt; of circle B. twice + 名词&lt;/li&gt;
+&lt;li&gt;The area of circle A &lt;font color=LightSeaGreen&gt;doubles that&lt;/font&gt; of circle B. double(v.) + 名词&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;比较结构的省略&#34;&gt;比较结构的省略&lt;/h5&gt;
+&lt;p&gt;主语比较时，如果句子有歧义，则需要补出助动词来消除歧义&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;助动词与前面的动词形式相对应 be/do&lt;/li&gt;
+&lt;li&gt;助动词的时态与单复数应使用正确&lt;/li&gt;
+&lt;li&gt;助动词可以倒装&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;状语比较时，介词需要保留
+两个句子比较时，主句相同的成分相比较，修饰成分可以不同&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;步骤
+&lt;ul&gt;
+&lt;li&gt;S1 先看比较结构标志词 &amp;ldquo;than&amp;rdquo; 或第二个 &amp;ldquo;as&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;S2 再看 &amp;ldquo;than&amp;rdquo; 或第二个 &amp;ldquo;as&amp;rdquo; 后面的成分&lt;/li&gt;
+&lt;li&gt;S3 在 &amp;ldquo;than&amp;rdquo; 或第二个 &amp;ldquo;as&amp;rdquo; 前面找与之相对应的成分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;例子
+&lt;ul&gt;
+&lt;li&gt;Mickey eats more than Minnie (eats/does). 主语&lt;/li&gt;
+&lt;li&gt;Mickey eats more cheese than (Mickey/he eats) donuts. 宾语&lt;/li&gt;
+&lt;li&gt;Mickey loves cheese more than Minnie. 有歧义
+&lt;ul&gt;
+&lt;li&gt;Mickey loves cheese more than Minnie does.&lt;/li&gt;
+&lt;li&gt;Mickey loves cheese more than (he) loves Minnie.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mickey is interested in cheese more than Minnie. 有歧义
+&lt;ul&gt;
+&lt;li&gt;Mickey is interested in cheese more than Minnie is. 状语&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Mickey is more interested in cheese than Minnie. 有歧义
+&lt;ul&gt;
+&lt;li&gt;Mickey is more interested in cheese than (he is) in Minnie. 状语&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Now I speak English better than I did when I was younger. 句子间比较
+&lt;ul&gt;
+&lt;li&gt;Now I speak English better than when I was younger. 时间状语的比较&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;I speak English better than I did when I was younger. 句子间比较
+&lt;ul&gt;
+&lt;li&gt;I speak English better than      when I was younger. ❌ 因为没有相比较的时间状语部分&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;做题-note-3&#34;&gt;做题 note&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;as
+&lt;ul&gt;
+&lt;li&gt;conj. 连词
+&lt;ul&gt;
+&lt;li&gt;后面接句子，表示时间或原因&lt;/li&gt;
+&lt;li&gt;as A do, B do. as 后面接句子，两句话比较&lt;/li&gt;
+&lt;li&gt;as …… as ……  第二个 as 引导比较状语从句（可省略），后面接各种形式&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;pron. 代词：后面接不完整的句子
+A is known to all, …… , as compared to  ……&lt;/li&gt;
+&lt;li&gt;prep. 介词：后面接名词，表示作为&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;likely
+&lt;ul&gt;
+&lt;li&gt;likely to do&lt;/li&gt;
+&lt;li&gt;It is likely that ……&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;代词指代&#34;&gt;代词指代&lt;/h4&gt;
+&lt;h5 id=&#34;代词指代的原则&#34;&gt;代词指代的原则&lt;/h5&gt;
+&lt;p&gt;代词不能指一件事&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;原则
+&lt;ul&gt;
+&lt;li&gt;代词应该指代&lt;font color=LightSeaGreen&gt;名词性质&lt;/font&gt;的成分，不能指代形容词或一句话&lt;/li&gt;
+&lt;li&gt;代词与名词的&lt;font color=LightSeaGreen&gt;单复数&lt;/font&gt;必须要一致&lt;/li&gt;
+&lt;li&gt;句中相同代词应该&lt;font color=LightSeaGreen&gt;指代相同的内容&lt;/font&gt;(they, them, their, theirs, it, its)&lt;/li&gt;
+&lt;li&gt;代词与其指代的&lt;font color=LightSeaGreen&gt;名词含义&lt;/font&gt;要一致&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;优先考虑
+&lt;ul&gt;
+&lt;li&gt;在相对主干上找指代（不跨分号）&lt;/li&gt;
+&lt;li&gt;主语对应找（前后主语指主语）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;thisthatthesethose指示代词-vs-ittheythem人称代词&#34;&gt;this/that/these/those（指示代词） vs. it/they/them（人称代词）&lt;/h5&gt;
+&lt;p&gt;指示代词 + 名词 = 人称代词&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;this/that/these/those 尽量不要单独当名词使用，可以修饰名词
+&lt;ul&gt;
+&lt;li&gt;that/those 可以指代与先行词（前面指代的词）同名称的不同个体
+&lt;font color=Chocolate&gt;&lt;font color=LightSeaGreen&gt;The money&lt;/font&gt; spent by her is less than &lt;font color=LightSeaGreen&gt;that&lt;/font&gt; spent by her children.&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;比较句中不同个体比较时用 that/those：
+核心词（关键词）指代 &lt;font color=Chocolate&gt;the traffic&lt;/font&gt;
+比较句中同一个个体比较时，用 it/they （不同时间的个体）：完全指代（有修饰词）&lt;font color=Chocolate&gt;the traffic in Beijing &lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;It is a book.&lt;/li&gt;
+&lt;li&gt;This is a book.❌ 尽量不选，“这”不明确&lt;/li&gt;
+&lt;li&gt;This book is fascinating.✅&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;it-做形式主语或形式宾语&#34;&gt;It 做形式主语或形式宾语&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;看到形式主语 it，要找到真正的主语：to do/主语从句（没有其他形式）&lt;/li&gt;
+&lt;li&gt;形式主语优于 to do 或主语从句作主语&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;修饰结构&#34;&gt;修饰结构&lt;/h4&gt;
+&lt;h5 id=&#34;形容词和副词&#34;&gt;形容词和副词&lt;/h5&gt;
+&lt;p&gt;&lt;font color=Chocolate&gt;a rapid developing country ❌
+a rapidly developing country ✅&lt;/font&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;adj. —— n./pron.（代词）&lt;/li&gt;
+&lt;li&gt;adv. —— anything but a noun/pron.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;介词短语&#34;&gt;介词短语&lt;/h5&gt;
+&lt;p&gt;prep. + n. e.g. A &lt;font color=LightSeaGreen&gt;of B&lt;/font&gt; 介词短语, 知道其是修饰成分即可&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;修饰 n. &lt;font color=Chocolate&gt;A &lt;font color=LightSeaGreen&gt;person next to me.&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;修饰 v. &lt;font color=Chocolate&gt;We are &lt;font color=LightSeaGreen&gt;having&lt;/font&gt; a class &lt;font color=LightSeaGreen&gt;in the classroom.&lt;/font&gt;&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;倒装：&lt;font color=Chocolate&gt;Just around the corner are a bakery and a florist.&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;分词或分词短语&#34;&gt;分词或分词短语&lt;/h5&gt;
+&lt;p&gt;doing(主动/伴随)/done(过去/被动)&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;分词作定语：名词
+&lt;ul&gt;
+&lt;li&gt;SVO doing.&lt;/li&gt;
+&lt;li&gt;SVO done. = SVO (that be) done.&lt;/li&gt;
+&lt;li&gt;SVO, done. = SVO, (which be) done.&lt;/li&gt;
+&lt;li&gt;SVO, doing(作状语)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;分词作状语：动词
+&lt;ul&gt;
+&lt;li&gt;分词在句首：在句首的分词应该修饰主句的主语
+&lt;ul&gt;
+&lt;li&gt;Doing, SVO.&lt;/li&gt;
+&lt;li&gt;Done, SVO.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;分词在句末: SVO, doing.
+&lt;ul&gt;
+&lt;li&gt;伴随状语
+&lt;ul&gt;
+&lt;li&gt;doing 的主语与 V 的主语相同&lt;/li&gt;
+&lt;li&gt;doing 修饰谓语动词 V, 是 V 的解释说明&lt;/li&gt;
+&lt;li&gt;doing 与谓语动词同时发生，若逗号前是主系表结构，则 doing 是对主句进行解释说明&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;结果状语（一件事的结果）
+&lt;ul&gt;
+&lt;li&gt;doing 的主语是 SVO&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;定语从句&#34;&gt;定语从句&lt;/h5&gt;
+&lt;p&gt;修饰就近的名词或名词短语&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A verb B that ……  定从可以修饰 B，不可以跳过 verb 修饰 A&lt;/li&gt;
+&lt;li&gt;A verb B of C that …… (of C 是 B 的定语，of C 修饰 B)  定从可以修饰 C，也可以修饰 B of C， 不可以跳过 verb 修饰 A&lt;/li&gt;
+&lt;li&gt;A verb that …… 定从修饰 A （没有宾语时）（少见）&lt;/li&gt;
+&lt;li&gt;引导词
+&lt;ul&gt;
+&lt;li&gt;that：修饰物&lt;/li&gt;
+&lt;li&gt;which：修饰物，前面必须有 &amp;ldquo;,&amp;rdquo; 或介词&lt;/li&gt;
+&lt;li&gt;who：修饰人，主格&lt;/li&gt;
+&lt;li&gt;whom：修饰人，宾格（介宾，动宾）&lt;/li&gt;
+&lt;li&gt;whose：修饰人或物&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;非限定性定语从句 VS 限定性定语从句&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;非限定性定语从句&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;限定性定语从句&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;有 &amp;ldquo;,&amp;rdquo;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;无 &amp;ldquo;,&amp;rdquo;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;独一无二的&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;限定范围“这样的”&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;描述&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;分类&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;non-essential modifier&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;essential modifier&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;不必要信息&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;必要信息&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h5 id=&#34;状语从句&#34;&gt;状语从句&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;状语从句省略的形式：从句引导词 + doing/done/形容词短语/动词短语&lt;/li&gt;
+&lt;li&gt;状语从句省略的规则：主语和从句主语一致时可省略
+&lt;ul&gt;
+&lt;li&gt;省主语&lt;/li&gt;
+&lt;li&gt;省动词的形式
+&lt;ul&gt;
+&lt;li&gt;主动 moving: &lt;font color=Chocolate&gt;Before (he was) moving to NYC, he lived in Germany.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;被动 moved: &lt;font color=Chocolate&gt;Before (he) moved to NYC, he lived in Germany.&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;同位语&#34;&gt;同位语&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;名词作同位语：修饰就近的名词或名词短语
+&lt;ul&gt;
+&lt;li&gt;S, 同位语, VO: A of B, 同位语, VO: 同位语既可以修饰 A 也可以修饰 B&lt;/li&gt;
+&lt;li&gt;同位语, SVO: 同位语, A of B, VO: 同位语只能修饰 A&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;同位语从句：抽象名词后优选同位语从句，不选介词短语&lt;/li&gt;
+&lt;li&gt;句末同位语：SVO, N(修饰)
+&lt;ul&gt;
+&lt;li&gt;解释&amp;quot;,&amp;ldquo;前的一个名词&lt;/li&gt;
+&lt;li&gt;解释&amp;rdquo;,&amp;ldquo;前的一个短语&lt;/li&gt;
+&lt;li&gt;解释&amp;rdquo;,&amp;ldquo;前的一整句话&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;子集修饰语&#34;&gt;子集修饰语&lt;/h5&gt;
+&lt;p&gt;all …… some ……&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;font color=Chocolate&gt;❌ This model explains all known atomic particles, some of them were recently discovered.&lt;/li&gt;
+&lt;li&gt;✅ This model explains all known atomic particles, some of which were recently discovered.(定从)&lt;/li&gt;
+&lt;li&gt;✅ This model explains all known atomic particles, some of them recently discovered. (独立主格)&lt;/li&gt;
+&lt;li&gt;✅ This model explains all known atomic particles, some recently discovered. (独立主格)&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;独立主格&#34;&gt;独立主格&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;表达句子的含义，但缺少谓语动词&lt;/li&gt;
+&lt;li&gt;对主句进行修饰和补充&lt;/li&gt;
+&lt;li&gt;独立主格部分的主语和主句的主语不相同&lt;/li&gt;
+&lt;li&gt;&lt;font color=Chocolate&gt;I am singing in front of the whole class, with you dancing around me.(主语不一致的伴随)&lt;/li&gt;
+&lt;li&gt;I am singing in front of the whole class, dancing.(主语一致的伴随)&lt;/font&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;做题-note-4&#34;&gt;做题 note&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;A is to B what C is to D. A 之与 B 如同 C 之与 D。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;动词&#34;&gt;动词&lt;/h4&gt;
+&lt;h5 id=&#34;时态&#34;&gt;时态&lt;/h5&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;状态/时间&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;一般式&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;进行式&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;完成式&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;完成进行式&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;现在时&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;do/does&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;have done&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;have been doing&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;过去时&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;did&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;had done&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;将来时&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;will do&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;过去将来时&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;would do&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ol&gt;
+&lt;li&gt;一般过去时
+&lt;ul&gt;
+&lt;li&gt;时间标志词
+&lt;ul&gt;
+&lt;li&gt;ago 等时间副词&lt;/li&gt;
+&lt;li&gt;in/at/during  + 过去时间&lt;/li&gt;
+&lt;li&gt;from …… to …… + 过去时间&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;现在完成时
+&lt;ul&gt;
+&lt;li&gt;时间标志词
+&lt;ul&gt;
+&lt;li&gt;since + 过去时间&lt;/li&gt;
+&lt;li&gt;in/within/during/over + the past/last/recent + 时间段&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;时态&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;过去&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;动作&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;did&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;动作发生在过去，与现在无关&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;只强调动作本身，不强调影响&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;have done&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;过去发生的动作持续到现在&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;强调过去发生的动作时对现在的影响和状态&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;过去完成时
+&lt;ul&gt;
+&lt;li&gt;在句中见到 had done 要寻找
+&lt;ul&gt;
+&lt;li&gt;表示“过去之前已经”的时间标志词，如“by + 过去时间”&lt;/li&gt;
+&lt;li&gt;did 与之比较先后顺序&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;will do 和 would do
+&lt;ul&gt;
+&lt;li&gt;相同点：都表示“将要”&lt;/li&gt;
+&lt;li&gt;不同点：will 用于现在时的句子中，would 用于过去时的句子中&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;have been doing 现在完成进行时
+&lt;ul&gt;
+&lt;li&gt;表示过去发生的动作持续到现在，并且会持续到未来&lt;/li&gt;
+&lt;li&gt;时间标志词：与 have done 相同&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h5 id=&#34;虚拟语气&#34;&gt;虚拟语气&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;表示建议、命令、要求
+&lt;ul&gt;
+&lt;li&gt;&lt;font color=Chocolate&gt;I required that you (should) go to Miami.
+I require that she (should) go to Miami.&lt;/font&gt;&lt;/li&gt;
+&lt;li&gt;表示建议、命令、要求的动词或名词
+&lt;ul&gt;
+&lt;li&gt;建议：suggest, recommend, propose&lt;/li&gt;
+&lt;li&gt;命令：command, mandate, order&lt;/li&gt;
+&lt;li&gt;要求：demand, require, request, ask&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;一般用法：
+&lt;ul&gt;
+&lt;li&gt;request/ask/order + sb. + to do&lt;/li&gt;
+&lt;li&gt;suggest/propose/recommend doing (不加人)&lt;/li&gt;
+&lt;li&gt;动词或名词后面 + that 从句，that 从句中 should 必须省略&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;表示假定或不真实的状态：if 条件句
+&lt;ul&gt;
+&lt;li&gt;a. 真实条件句：主将从现
+&lt;ul&gt;
+&lt;li&gt;If X does, Y will do.&lt;/li&gt;
+&lt;li&gt;If I do, I will do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;b. 客观事实，必然发生：主现从现
+&lt;ul&gt;
+&lt;li&gt;If X does, Y does.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;c. 虚拟条件句
+&lt;ul&gt;
+&lt;li&gt;现在虚拟：主过从过：If X did, Y would do.&lt;/li&gt;
+&lt;li&gt;过去虚拟：If X had done, Y would have done.&lt;/li&gt;
+&lt;li&gt;将来虚拟：
+&lt;ul&gt;
+&lt;li&gt;If X did, Y would do.&lt;/li&gt;
+&lt;li&gt;If X should do, Y would do.&lt;/li&gt;
+&lt;li&gt;If X were to do, Y would do.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
