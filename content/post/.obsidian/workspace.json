@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "collection_bear/collection_bear.md",
+                "file": "generalsocialpattern/generalsocialpattern.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "collection_bear"
+              "title": "generalsocialpattern"
             }
           }
         ]
@@ -149,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collection_bear/collection_bear.md"
+                "file": "generalsocialpattern/generalsocialpattern.md"
               },
               "icon": "lucide-list",
-              "title": "collection_bear 的大纲"
+              "title": "generalsocialpattern 的大纲"
             }
           }
         ],
@@ -174,11 +174,12 @@
   },
   "active": "f5aac87ac0ad886a",
   "lastOpenFiles": [
+    "collection_bear/bear_without_cone.png",
+    "collection_bear/collection_bear.md",
     "generalsocialpattern/generalsocialpattern.md",
     "generalsocialpattern/code.md",
     "how_to_be_a_parent_in_era_with_less_choices.md",
     "202403weeklydigest/Weekly Digest 2024 Week3.md",
-    "collection_bear/collection_bear.md",
     "资源集合.md",
     "202402weeklydigest/202402weeklydigest.md",
     "How_to_build_your_own_capsule_wardrobe/How_to_build_your_own_capsule_wardrobe.md",
@@ -214,7 +215,6 @@
     "post/sustainable_life.md",
     "sustainable_life",
     "sustainable_life.md",
-    "未命名文件夹/sustainable_life.md",
     "未命名文件夹",
     "sensory_room",
     "The Remedy for Creative Block and Existential Stuckness",
