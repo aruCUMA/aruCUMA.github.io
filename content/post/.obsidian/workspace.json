@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f7a7f87c9028586a",
+        "id": "d1330ac5a519948e",
         "type": "tabs",
         "children": [
           {
-            "id": "77a33a282086e6fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "generalsocialpattern/generalsocialpattern.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "generalsocialpattern"
-            }
-          }
-        ]
-      },
-      {
-        "id": "6e7517ae65301e7b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ccc54bf70c0731a3",
+            "id": "f5aac87ac0ad886a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "generalsocialpattern/generalsocialpattern.md"
+                "file": "collection_bear/collection_bear.md"
               },
               "icon": "lucide-list",
-              "title": "generalsocialpattern 的大纲"
+              "title": "collection_bear 的大纲"
             }
           }
         ],
@@ -192,13 +172,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "77a33a282086e6fc",
+  "active": "f5aac87ac0ad886a",
   "lastOpenFiles": [
-    "资源集合.md",
     "generalsocialpattern/generalsocialpattern.md",
-    "collection_bear/collection_bear.md",
     "generalsocialpattern/code.md",
+    "how_to_be_a_parent_in_era_with_less_choices.md",
     "202403weeklydigest/Weekly Digest 2024 Week3.md",
+    "collection_bear/collection_bear.md",
+    "资源集合.md",
     "202402weeklydigest/202402weeklydigest.md",
     "How_to_build_your_own_capsule_wardrobe/How_to_build_your_own_capsule_wardrobe.md",
     "sustainable_life/sustainable_life.md",
@@ -219,7 +200,6 @@
     "unhealthysocialpattern.md",
     "The_Tragic_Necessity_of_Human_Life.md",
     "GMAT_VERBAL_NOTES.md",
-    "how_to_be_a_parent_in_era_with_less_choices.md",
     "Program Language Learning Map.md",
     "building_resillence.md",
     "how_I_leave_my_job.md",

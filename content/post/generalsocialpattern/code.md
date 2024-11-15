@@ -4,7 +4,7 @@ date: 2024-11-14T22:10:14+01:00
 tags: 
 draft: true
 categories:
-  - De Absurditeit van Onze Samenleving
+- DeAbsurditeitvanOnzeSamenleving
 hidden: true
 ---
 ```
