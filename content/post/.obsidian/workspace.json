@@ -15,7 +15,7 @@
               "state": {
                 "file": "generalsocialpattern/generalsocialpattern.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -157,9 +157,9 @@
   },
   "active": "77a33a282086e6fc",
   "lastOpenFiles": [
-    "generalsocialpattern/svgviewer-png-output.png",
-    "generalsocialpattern/generalsocialpattern.md",
     "generalsocialpattern/code.md",
+    "generalsocialpattern/generalsocialpattern.md",
+    "generalsocialpattern/svgviewer-png-output.png",
     "sustainable_life/sustainable_life.md",
     "sustainable_life/excercise_aged.png",
     "generalsocialpattern/circle.png",
