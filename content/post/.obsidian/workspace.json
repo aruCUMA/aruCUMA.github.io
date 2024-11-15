@@ -15,7 +15,7 @@
               "state": {
                 "file": "generalsocialpattern/generalsocialpattern.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a6467b673617640f",
@@ -157,10 +156,18 @@
   },
   "active": "77a33a282086e6fc",
   "lastOpenFiles": [
-    "generalsocialpattern/code.md",
-    "generalsocialpattern/generalsocialpattern.md",
-    "generalsocialpattern/svgviewer-png-output.png",
+    "202403weeklydigest/Weekly Digest 2024 Week3.md",
+    "202402weeklydigest/202402weeklydigest.md",
+    "How_to_build_your_own_capsule_wardrobe/How_to_build_your_own_capsule_wardrobe.md",
     "sustainable_life/sustainable_life.md",
+    "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential_Stuckness.md",
+    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
+    "collection_bear/collection_bear.md",
+    "sensory_room/sensory_room.md",
+    "generalsocialpattern/generalsocialpattern.md",
+    "how_to_have_a_blog_with_hugo_and_github_pages/change_page_source.png",
+    "generalsocialpattern/code.md",
+    "generalsocialpattern/svgviewer-png-output.png",
     "sustainable_life/excercise_aged.png",
     "generalsocialpattern/circle.png",
     "post/generalsocialpattern/svg.md",
@@ -179,26 +186,19 @@
     "how_I_leave_my_job.md",
     "how_to_use_beancount.md",
     "2023summary.md",
-    "sensory_room/sensory_room.md",
     "sensory_room/best_practice.png",
     "资源集合.md",
     "sustainable_life/品牌推荐.png",
     "sustainable_life/品牌推荐.jpg",
     "sustainable_life/品牌推荐.jpg.sb-c749710f-cLiQ6Y",
-    "sustainable_life/浓度推荐.jpg",
-    "how_to_have_a_blog_with_hugo_and_github_pages/how_to_have_a_blog_with_hugo_and_github_pages.md",
-    "How_to_build_your_own_capsule_wardrobe/How_to_build_your_own_capsule_wardrobe.md",
     "找工预备役_找工网站.md",
     "2023-07-25.md",
     "post/sustainable_life.md",
-    "The_Remedy_for_Creative_Block_and_Existential_Stuckness/The_Remedy_for_Creative_Block_and_Existential_Stuckness.md",
     "sustainable_life",
     "sustainable_life.md",
     "未命名文件夹/sustainable_life.md",
     "未命名文件夹",
-    "sensory_room.md",
     "sensory_room",
-    "collection_bear/collection_bear.md",
     "The Remedy for Creative Block and Existential Stuckness",
     "(/post/collection_bear",
     "(/post"

@@ -4,7 +4,7 @@ date: 2024-11-14T22:10:14+01:00
 tags: 
 draft: false
 categories:
-  - De Absurditeit van Onze Samenleving
+  - "De Absurditeit van Onze Samenleving"
 ---
 
 ## 常见社交模式
@@ -37,7 +37,7 @@ categories:
 |  创新协作型  |  优势互补    |  • 共同创造<br>• 开放分享<br>• 追求突破     |
 
 ## 基本社交策略
-![社交圈层策略](/post/generalsocialpattern/circle.png)
+![社交圈层策略](/post/generalsocialpattern/circle.png?width=50%)
 
 ### 选择合适的社交模式
 |  维度    |  考虑因素                                  |
