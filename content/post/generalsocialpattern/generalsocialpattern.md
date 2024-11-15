@@ -3,8 +3,7 @@ title: 可笑的人类造物（1）- 常见社交模式
 date: 2024-11-14T22:10:14+01:00
 tags: 
 draft: false
-categories:
-  - "DeAbsurditeitvanOnzeSamenleving"
+categories: []
 ---
 
 ## 常见社交模式
