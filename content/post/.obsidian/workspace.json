@@ -13,6 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "generalsocialpattern/generalsocialpattern.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "generalsocialpattern"
+            }
+          }
+        ]
+      },
+      {
+        "id": "6e7517ae65301e7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccc54bf70c0731a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "collection_bear/collection_bear.md",
                 "mode": "source",
                 "source": true
@@ -149,10 +169,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "collection_bear/collection_bear.md"
+                "file": "generalsocialpattern/generalsocialpattern.md"
               },
               "icon": "lucide-list",
-              "title": "collection_bear 的大纲"
+              "title": "generalsocialpattern 的大纲"
             }
           }
         ],
@@ -174,6 +194,7 @@
   },
   "active": "77a33a282086e6fc",
   "lastOpenFiles": [
+    "资源集合.md",
     "generalsocialpattern/generalsocialpattern.md",
     "collection_bear/collection_bear.md",
     "generalsocialpattern/code.md",
@@ -205,7 +226,6 @@
     "how_to_use_beancount.md",
     "2023summary.md",
     "sensory_room/best_practice.png",
-    "资源集合.md",
     "sustainable_life/品牌推荐.png",
     "sustainable_life/品牌推荐.jpg",
     "sustainable_life/品牌推荐.jpg.sb-c749710f-cLiQ6Y",
