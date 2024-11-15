@@ -1,5 +1,5 @@
 ---
-title: "De Absurditeit van Onze Samenleving"
+title: "DeAbsurditeitvanOnzeSamenleving"
 image: "seewhatImean.jpg"
 style:
     background: "#E88D67"

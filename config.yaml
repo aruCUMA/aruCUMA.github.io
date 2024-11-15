@@ -72,7 +72,7 @@ params:
             adminLabel:
 
         utterances:
-            repo: "https://github.com/aruCUMA/aruCUMA.github.io/actions"
+            repo: "aruCUMA/aruCUMA.github.io"
             issueTerm: "title"
             label: "comment"
 
