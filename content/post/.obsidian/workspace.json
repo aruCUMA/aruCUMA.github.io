@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "generalsocialpattern/generalsocialpattern.md",
+                "file": "how_to_have_a_meeting.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "generalsocialpattern"
+              "title": "how_to_have_a_meeting"
             }
           }
         ]
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a6467b673617640f",
@@ -149,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "generalsocialpattern/generalsocialpattern.md"
+                "file": "how_to_have_a_meeting.md"
               },
               "icon": "lucide-list",
-              "title": "generalsocialpattern 的大纲"
+              "title": "how_to_have_a_meeting 的大纲"
             }
           }
         ],
@@ -160,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +176,19 @@
   },
   "active": "f5aac87ac0ad886a",
   "lastOpenFiles": [
+    "how_to_use_beancount.md",
+    "how_to_have_a_meeting.md",
+    "常见工作内容.md",
+    "building_resillence.md",
+    "资源集合.md",
+    "unhealthysocialpattern.md",
+    "GMAT_VERBAL_NOTES.md",
+    "how_to_be_a_parent_in_era_with_less_choices.md",
+    "generalsocialpattern/generalsocialpattern.md",
     "collection_bear/bear_without_cone.png",
     "collection_bear/collection_bear.md",
-    "generalsocialpattern/generalsocialpattern.md",
     "generalsocialpattern/code.md",
-    "how_to_be_a_parent_in_era_with_less_choices.md",
     "202403weeklydigest/Weekly Digest 2024 Week3.md",
-    "资源集合.md",
     "202402weeklydigest/202402weeklydigest.md",
     "How_to_build_your_own_capsule_wardrobe/How_to_build_your_own_capsule_wardrobe.md",
     "sustainable_life/sustainable_life.md",
@@ -198,23 +206,17 @@
     "sustainable_life/Healthy_Eating_Plate.jpeg",
     "sustainable_life/excercise_adult.png",
     "generalsocialpattern",
-    "unhealthysocialpattern.md",
     "The_Tragic_Necessity_of_Human_Life.md",
-    "GMAT_VERBAL_NOTES.md",
     "Program Language Learning Map.md",
-    "building_resillence.md",
     "how_I_leave_my_job.md",
-    "how_to_use_beancount.md",
     "2023summary.md",
     "sensory_room/best_practice.png",
     "sustainable_life/品牌推荐.png",
-    "sustainable_life/品牌推荐.jpg",
     "sustainable_life/品牌推荐.jpg.sb-c749710f-cLiQ6Y",
     "找工预备役_找工网站.md",
     "2023-07-25.md",
     "post/sustainable_life.md",
     "sustainable_life",
-    "sustainable_life.md",
     "未命名文件夹",
     "sensory_room",
     "The Remedy for Creative Block and Existential Stuckness",
