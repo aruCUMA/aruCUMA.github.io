@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how_to_have_a_meeting.md",
+                "file": "20241216.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "how_to_have_a_meeting"
+              "title": "20241216"
             }
           }
         ]
@@ -87,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "a6467b673617640f",
@@ -150,10 +149,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "how_to_have_a_meeting.md"
+                "file": "常见工作内容.md"
               },
               "icon": "lucide-list",
-              "title": "how_to_have_a_meeting 的大纲"
+              "title": "常见工作内容 的大纲"
             }
           }
         ],
@@ -176,9 +175,9 @@
   },
   "active": "f5aac87ac0ad886a",
   "lastOpenFiles": [
-    "how_to_use_beancount.md",
-    "how_to_have_a_meeting.md",
     "常见工作内容.md",
+    "how_to_have_a_meeting.md",
+    "how_to_use_beancount.md",
     "building_resillence.md",
     "资源集合.md",
     "unhealthysocialpattern.md",
