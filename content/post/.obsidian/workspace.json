@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how_I_leave_my_job.md",
+                "file": "a_story_in_20250430.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "how_I_leave_my_job"
+              "title": "a_story_in_20250430"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -175,12 +176,13 @@
   },
   "active": "f5aac87ac0ad886a",
   "lastOpenFiles": [
+    "building_resillence.md",
+    "a_story_in_20250430.md",
+    "how_I_leave_my_job.md",
     "how_to_be_a_parent_in_era_with_less_choices.md",
     "how_to_have_a_meeting.md",
-    "how_I_leave_my_job.md",
     "GMAT_VERBAL_NOTES.md",
     "20241216.md",
-    "building_resillence.md",
     "unhealthysocialpattern.md",
     "The_Tragic_Necessity_of_Human_Life.md",
     "how_to_use_beancount.md",
@@ -214,7 +216,6 @@
     "sustainable_life/品牌推荐.png",
     "sustainable_life/品牌推荐.jpg.sb-c749710f-cLiQ6Y",
     "找工预备役_找工网站.md",
-    "2023-07-25.md",
     "sustainable_life",
     "未命名文件夹",
     "sensory_room",
